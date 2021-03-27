@@ -1,0 +1,66 @@
+MRA_term,Modified_term,SearcherReturned_term,State,Rank
+Blood immunoglobulin M,Blood immunoglobulin M,Blood immunoglobulin G,Unmatched,3rd
+Blood immunoglobulin M abnormal,Blood immunoglobulin M abnormal,Blood immunoglobulin G abnormal,Unmatched,3rd
+Blood immunoglobulin M decreased,Blood immunoglobulin M decreased,Blood immunoglobulin G decreased,Unmatched,3rd
+Blood immunoglobulin M increased,Blood immunoglobulin M increased,Blood immunoglobulin G increased,Unmatched,3rd
+Blood immunoglobulin M normal,Blood immunoglobulin M normal,Blood immunoglobulin G normal,Unmatched,3rd
+Chronic lymphocytic leukaemia stage 3,Chronic lymphocytic leukaemia stage 3,Chronic lymphocytic leukaemia stage 2,Unmatched,3rd
+Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 2,Unmatched,3rd
+Factor XI deficiency,Factor XI deficiency,Factor IX deficiency,Unmatched,3rd
+Hepatitis D,Hepatitis D,Hepatitis C,Unmatched,3rd
+Hepatitis E,Hepatitis E,Hepatitis C,Unmatched,3rd
+Hepatitis F,Hepatitis F,Hepatitis C,Unmatched,3rd
+Hepatitis G,Hepatitis G,Hepatitis C,Unmatched,3rd
+Hepatitis H,Hepatitis H,Hepatitis C,Unmatched,3rd
+HIV infection CDC Group IV subgroup E,HIV infection CDC Group IV subgroup E,HIV infection CDC Group IV subgroup D,Unmatched,3rd
+T-cell lymphoma stage I,T-cell lymphoma stage I,B-cell lymphoma stage IV,Unmatched,3rd
+T-cell lymphoma stage II,T-cell lymphoma stage II,B-cell lymphoma stage III,Unmatched,3rd
+T-cell lymphoma stage III,T-cell lymphoma stage III,T-cell lymphoma stage II,Unmatched,3rd
+T-cell lymphoma stage IV,T-cell lymphoma stage IV,B-cell lymphoma stage IV,Unmatched,3rd
+Vitamin E deficiency,Vitamin E deficiency,Vitamin D deficiency,Unmatched,3rd
+Vitamin K deficiency,Vitamin K deficiency,Vitamin D deficiency,Unmatched,3rd
+Complement factor C2 decreased,Complement factor C2 decreased,Complement factor C1 decreased,Unmatched,3rd
+Complement factor C2 increased,Complement factor C2 increased,Complement factor C1 increased,Unmatched,3rd
+Factor XII deficiency,Factor XII deficiency,Factor XI deficiency,Unmatched,3rd
+Factor III deficiency,Factor III deficiency,Factor VIII deficiency,Unmatched,3rd
+Factor X deficiency,Factor X deficiency,Factor XI deficiency,Unmatched,3rd
+Glycogen storage disease type VI,Glycogen storage disease type VI,Glycogen storage disease type II,Unmatched,3rd
+Glycogen storage disease type IV,Glycogen storage disease type IV,Glycogen storage disease type II,Unmatched,3rd
+Glycogen storage disease type III,Glycogen storage disease type III,Glycogen storage disease type VIII,Unmatched,3rd
+Trisomy 18,Trisomy 18,Trisomy 8,Unmatched,3rd
+Trisomy 17,Trisomy 17,Trisomy 18,Unmatched,3rd
+Mucopolysaccharidosis VI,Mucopolysaccharidosis VI,Mucopolysaccharidosis II,Unmatched,3rd
+Mucopolysaccharidosis VII,Mucopolysaccharidosis VII,Mucopolysaccharidosis VI,Unmatched,3rd
+Hepatitis E antibody positive,Hepatitis E antibody positive,Hepatitis C antibody positive,Unmatched,3rd
+Hepatitis E antibody,Hepatitis E antibody,Hepatitis C antibody,Unmatched,3rd
+Hepatitis E antibody negative,Hepatitis E antibody negative,Hepatitis C antibody negative,Unmatched,3rd
+Vitamin B2 increased,Vitamin B2 increased,Vitamin B1 increased,Unmatched,3rd
+Vitamin B2 decreased,Vitamin B2 decreased,Vitamin B1 decreased,Unmatched,3rd
+Vitamin E,Vitamin E,Vitamin D,Unmatched,3rd
+Vitamin B2,Vitamin B2,Vitamin B1,Unmatched,3rd
+Vitamin K,Vitamin K,Vitamin D,Unmatched,3rd
+Gallbladder cancer stage I,Gallbladder cancer stage I,Gallbladder cancer stage 0,Unmatched,3rd
+Hepatitis D antibody positive,Hepatitis D antibody positive,Hepatitis C antibody positive,Unmatched,3rd
+Hepatitis D antibody,Hepatitis D antibody,Hepatitis C antibody,Unmatched,3rd
+Hepatitis D antibody negative,Hepatitis D antibody negative,Hepatitis C antibody negative,Unmatched,3rd
+Type III hyperlipidaemia,Type III hyperlipidaemia,Type IIb hyperlipidaemia,Unmatched,3rd
+Vitamin D increased,Vitamin D increased,Vitamin K increased,Unmatched,3rd
+Vitamin A decreased,Vitamin A decreased,Vitamin K decreased,Unmatched,3rd
+Vitamin A increased,Vitamin A increased,Vitamin K increased,Unmatched,3rd
+Vitamin D decreased,Vitamin D decreased,Vitamin K decreased,Unmatched,3rd
+Trisomy 15,Trisomy 15,Trisomy 18,Unmatched,3rd
+Trisomy 12,Trisomy 12,Trisomy 21,Unmatched,3rd
+Blood immunoglobulin D decreased,Blood immunoglobulin D decreased,Blood immunoglobulin G decreased,Unmatched,3rd
+Blood immunoglobulin D increased,Blood immunoglobulin D increased,Blood immunoglobulin G increased,Unmatched,3rd
+Hepatitis B antigen positive,Hepatitis B antigen positive,Hepatitis E antigen positive,Unmatched,3rd
+Blood immunoglobulin D,Blood immunoglobulin D,Blood immunoglobulin G,Unmatched,3rd
+Hepatitis A virus test,Hepatitis A virus test,Hepatitis D virus test,Unmatched,3rd
+Hepatitis E virus test positive,Hepatitis E virus test positive,Hepatitis C virus test positive,Unmatched,3rd
+Hepatitis D virus test positive,Hepatitis D virus test positive,Hepatitis C virus test positive,Unmatched,3rd
+Trisomy 14,Trisomy 14,Trisomy 18,Unmatched,3rd
+Hepatitis A antigen,Hepatitis A antigen,Hepatitis B antigen,Unmatched,3rd
+Hepatitis E virus test,Hepatitis E virus test,Hepatitis D virus test,Unmatched,3rd
+Electrocardiogram J wave abnormal,Electrocardiogram J wave abnormal,Electrocardiogram Q wave abnormal,Unmatched,3rd
+Mucopolysaccharidosis IX,Mucopolysaccharidosis IX,Mucopolysaccharidosis II,Unmatched,3rd
+Trisomy 16,Trisomy 16,Trisomy 18,Unmatched,3rd
+Glycogen storage disease type IX,Glycogen storage disease type IX,Glycogen storage disease type IV,Unmatched,3rd

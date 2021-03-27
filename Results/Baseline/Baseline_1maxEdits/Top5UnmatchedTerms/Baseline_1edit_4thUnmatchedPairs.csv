@@ -1,0 +1,29 @@
+MRA_term,Modified_term,SearcherReturned_term,State,Rank
+Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 3,Unmatched,4th
+Hepatitis E,Hepatitis E,Hepatitis D,Unmatched,4th
+Hepatitis F,Hepatitis F,Hepatitis D,Unmatched,4th
+Hepatitis G,Hepatitis G,Hepatitis D,Unmatched,4th
+Hepatitis H,Hepatitis H,Hepatitis D,Unmatched,4th
+T-cell lymphoma stage II,T-cell lymphoma stage II,B-cell lymphoma stage IV,Unmatched,4th
+T-cell lymphoma stage IV,T-cell lymphoma stage IV,T-cell lymphoma stage I,Unmatched,4th
+Vitamin K deficiency,Vitamin K deficiency,Vitamin E deficiency,Unmatched,4th
+Factor XII deficiency,Factor XII deficiency,Factor XIII deficiency,Unmatched,4th
+Factor III deficiency,Factor III deficiency,Factor XIII deficiency,Unmatched,4th
+Factor X deficiency,Factor X deficiency,Factor V deficiency,Unmatched,4th
+Glycogen storage disease type IV,Glycogen storage disease type IV,Glycogen storage disease type VI,Unmatched,4th
+Mucopolysaccharidosis VI,Mucopolysaccharidosis VI,Mucopolysaccharidosis V,Unmatched,4th
+Vitamin K,Vitamin K,Vitamin E,Unmatched,4th
+Hepatitis D antibody positive,Hepatitis D antibody positive,Hepatitis E antibody positive,Unmatched,4th
+Hepatitis D antibody,Hepatitis D antibody,Hepatitis E antibody,Unmatched,4th
+Hepatitis D antibody negative,Hepatitis D antibody negative,Hepatitis E antibody negative,Unmatched,4th
+Vitamin A increased,Vitamin A increased,Vitamin D increased,Unmatched,4th
+Vitamin D decreased,Vitamin D decreased,Vitamin A decreased,Unmatched,4th
+Trisomy 15,Trisomy 15,Trisomy 17,Unmatched,4th
+Trisomy 12,Trisomy 12,Trisomy 22,Unmatched,4th
+Blood immunoglobulin D decreased,Blood immunoglobulin D decreased,Blood immunoglobulin M decreased,Unmatched,4th
+Blood immunoglobulin D increased,Blood immunoglobulin D increased,Blood immunoglobulin M increased,Unmatched,4th
+Blood immunoglobulin D,Blood immunoglobulin D,Blood immunoglobulin M,Unmatched,4th
+Hepatitis D virus test positive,Hepatitis D virus test positive,Hepatitis E virus test positive,Unmatched,4th
+Trisomy 14,Trisomy 14,Trisomy 17,Unmatched,4th
+Hepatitis E virus test,Hepatitis E virus test,Hepatitis A virus test,Unmatched,4th
+Trisomy 16,Trisomy 16,Trisomy 17,Unmatched,4th

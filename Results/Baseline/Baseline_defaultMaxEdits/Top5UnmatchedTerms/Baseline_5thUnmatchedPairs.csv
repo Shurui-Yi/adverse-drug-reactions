@@ -1,0 +1,52 @@
+MRA_term,Modified_term,SearcherReturned_term,State,Rank
+Blood immunoglobulin G increased,Blood immunoglobulin G increased,Blood immunoglobulin G decreased,Unmatched,5th
+Blood immunoglobulin G normal,Blood immunoglobulin G normal,Blood immunoglobulin G abnormal,Unmatched,5th
+Blood immunoglobulin M abnormal,Blood immunoglobulin M abnormal,Blood immunoglobulin G abnormal,Unmatched,5th
+Blood immunoglobulin M decreased,Blood immunoglobulin M decreased,Blood immunoglobulin G decreased,Unmatched,5th
+Blood immunoglobulin M increased,Blood immunoglobulin M increased,Blood immunoglobulin G decreased,Unmatched,5th
+Blood immunoglobulin M normal,Blood immunoglobulin M normal,Blood immunoglobulin G abnormal,Unmatched,5th
+Coagulation factor X level increased,Coagulation factor X level increased,Coagulation factor X level decreased,Unmatched,5th
+Coagulation factor XII level decreased,Coagulation factor XII level decreased,Coagulation factor VIII level decreased,Unmatched,5th
+Coagulation factor XII level increased,Coagulation factor XII level increased,Coagulation factor VIII level decreased,Unmatched,5th
+Coagulation factor XIII level decreased,Coagulation factor XIII level decreased,Coagulation factor XI level decreased,Unmatched,5th
+Coagulation factor XIII level increased,Coagulation factor XIII level increased,Coagulation factor XI level decreased,Unmatched,5th
+Hepatitis F,Hepatitis F,Hepatitis E,Unmatched,5th
+Hepatitis G,Hepatitis G,Hepatitis E,Unmatched,5th
+Hepatitis H,Hepatitis H,Hepatitis E,Unmatched,5th
+Pharyngeal cancer stage I,Pharyngeal cancer stage I,Pharyngeal cancer stage 0,Unmatched,5th
+Renal cancer stage I,Renal cancer stage I,Rectal cancer stage 0,Unmatched,5th
+Renal cancer stage II,Renal cancer stage II,Rectal cancer stage III,Unmatched,5th
+Renal cancer stage III,Renal cancer stage III,Renal cancer stage II,Unmatched,5th
+Renal cancer stage IV,Renal cancer stage IV,Renal cancer stage II,Unmatched,5th
+XIth nerve injury,XIth nerve injury,XIIth nerve injury,Unmatched,5th
+Electrocardiogram Q wave abnormal,Electrocardiogram Q wave abnormal,Electrocardiogram P wave abnormal,Unmatched,5th
+Complement factor C1 increased,Complement factor C1 increased,Complement factor C1 decreased,Unmatched,5th
+Complement factor C2 decreased,Complement factor C2 decreased,Complement factor C1 decreased,Unmatched,5th
+Complement factor C2 increased,Complement factor C2 increased,Complement factor C1 decreased,Unmatched,5th
+Factor XII deficiency,Factor XII deficiency,Factor XI deficiency,Unmatched,5th
+Factor III deficiency,Factor III deficiency,Factor XII deficiency,Unmatched,5th
+Trisomy 18,Trisomy 18,Trisomy 8,Unmatched,5th
+Trisomy 17,Trisomy 17,Trisomy 18,Unmatched,5th
+Hepatitis E antibody normal,Hepatitis E antibody normal,Hepatitis E antibody abnormal,Unmatched,5th
+Vitamin B1 decreased,Vitamin B1 decreased,Vitamin B1 increased,Unmatched,5th
+Vitamin B2 increased,Vitamin B2 increased,Vitamin B1 increased,Unmatched,5th
+Vitamin B2 decreased,Vitamin B2 decreased,Vitamin B1 increased,Unmatched,5th
+Vitamin K decreased,Vitamin K decreased,Vitamin K increased,Unmatched,5th
+Coagulation factor XII level abnormal,Coagulation factor XII level abnormal,Coagulation factor VII level abnormal,Unmatched,5th
+Coagulation factor XIII level abnormal,Coagulation factor XIII level abnormal,Coagulation factor XI level abnormal,Unmatched,5th
+Vitamin D increased,Vitamin D increased,Vitamin K increased,Unmatched,5th
+Vitamin A decreased,Vitamin A decreased,Vitamin K increased,Unmatched,5th
+Vitamin A increased,Vitamin A increased,Vitamin K increased,Unmatched,5th
+Vitamin D decreased,Vitamin D decreased,Vitamin K increased,Unmatched,5th
+Trisomy 15,Trisomy 15,Trisomy 18,Unmatched,5th
+Trisomy 12,Trisomy 12,Trisomy 18,Unmatched,5th
+Coagulation factor X level normal,Coagulation factor X level normal,Coagulation factor X level abnormal,Unmatched,5th
+Coagulation factor XII level normal,Coagulation factor XII level normal,Coagulation factor VII level abnormal,Unmatched,5th
+Coagulation factor XIII level normal,Coagulation factor XIII level normal,Coagulation factor XI level abnormal,Unmatched,5th
+Blood immunoglobulin D decreased,Blood immunoglobulin D decreased,Blood immunoglobulin G decreased,Unmatched,5th
+Blood immunoglobulin D increased,Blood immunoglobulin D increased,Blood immunoglobulin G decreased,Unmatched,5th
+Trisomy 9,Trisomy 9,Trisomy 8,Unmatched,5th
+Trisomy 14,Trisomy 14,Trisomy 18,Unmatched,5th
+Electrocardiogram J wave abnormal,Electrocardiogram J wave abnormal,Electrocardiogram P wave abnormal,Unmatched,5th
+Trisomy 4p,Trisomy 4p,Trisomy 18,Unmatched,5th
+Trisomy 16,Trisomy 16,Trisomy 18,Unmatched,5th

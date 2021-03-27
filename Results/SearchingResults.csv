@@ -1,0 +1,7 @@
+input_fileName,unmatched_1st_count,macthed_1st_count,macthed_2nd_count,macthed_3rd_count,macthed_4th_count,macthed_5th_count,no_returned,count_total,top1_percentage,top2_percentage,top3_percentage,top4_percentage,top5_percentage,
+pt.csv,2524,22047,2190,160,88,31,4,24571,89.73,98.64,99.29,99.65,99.78,
+TypoSimulatedDataset0.125.csv,6244,116611,4254,534,251,149,934,122855,94.92,98.38,98.81,99.02,99.14,
+TypoSimulatedDataset0.17.csv,14949,107906,3377,505,220,118,10609,122855,87.83,90.58,90.99,91.17,91.27,
+TypoSimulatedDataset0.25.csv,58869,63986,2188,372,181,86,55787,122855,52.08,53.86,54.17,54.31,54.38,
+SynsSimulatedDataset1.csv,413107,34213,4425,318,183,97,399732,447320,7.65,8.64,8.71,8.75,8.77,(not replace syns back to MRA)
+SynsSimulatedDataset1.csv,208059,239261,37383,2114,1269,600,158854,447320,53.49,61.84,62.32,62.6,62.74,(replace all syns by for loop)

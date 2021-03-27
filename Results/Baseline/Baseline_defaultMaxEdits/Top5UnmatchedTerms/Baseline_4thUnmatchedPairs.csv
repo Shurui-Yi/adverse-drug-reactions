@@ -1,0 +1,83 @@
+MRA_term,Modified_term,SearcherReturned_term,State,Rank
+Blood immunoglobulin G abnormal,Blood immunoglobulin G abnormal,Blood immunoglobulin E normal,Unmatched,4th
+Blood immunoglobulin G decreased,Blood immunoglobulin G decreased,Blood immunoglobulin E increased,Unmatched,4th
+Blood immunoglobulin G increased,Blood immunoglobulin G increased,Blood immunoglobulin E increased,Unmatched,4th
+Blood immunoglobulin G normal,Blood immunoglobulin G normal,Blood immunoglobulin E normal,Unmatched,4th
+Blood immunoglobulin M abnormal,Blood immunoglobulin M abnormal,Blood immunoglobulin E normal,Unmatched,4th
+Blood immunoglobulin M decreased,Blood immunoglobulin M decreased,Blood immunoglobulin E increased,Unmatched,4th
+Blood immunoglobulin M increased,Blood immunoglobulin M increased,Blood immunoglobulin E increased,Unmatched,4th
+Blood immunoglobulin M normal,Blood immunoglobulin M normal,Blood immunoglobulin E normal,Unmatched,4th
+Blood methanol increased,Blood methanol increased,Blood methanol decreased,Unmatched,4th
+Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 3,Unmatched,4th
+Coagulation factor X level decreased,Coagulation factor X level decreased,Coagulation factor V level increased,Unmatched,4th
+Coagulation factor X level increased,Coagulation factor X level increased,Coagulation factor V level increased,Unmatched,4th
+Coagulation factor XII level,Coagulation factor XII level,Coagulation factor XI level,Unmatched,4th
+Coagulation factor XII level decreased,Coagulation factor XII level decreased,Coagulation factor VII level increased,Unmatched,4th
+Coagulation factor XII level increased,Coagulation factor XII level increased,Coagulation factor VII level increased,Unmatched,4th
+Coagulation factor XIII level,Coagulation factor XIII level,Coagulation factor XII level,Unmatched,4th
+Coagulation factor XIII level decreased,Coagulation factor XIII level decreased,Coagulation factor VIII level increased,Unmatched,4th
+Coagulation factor XIII level increased,Coagulation factor XIII level increased,Coagulation factor VIII level increased,Unmatched,4th
+Factor XIII deficiency,Factor XIII deficiency,Factor XI deficiency,Unmatched,4th
+Hepatitis E,Hepatitis E,Hepatitis D,Unmatched,4th
+Hepatitis F,Hepatitis F,Hepatitis D,Unmatched,4th
+Hepatitis G,Hepatitis G,Hepatitis D,Unmatched,4th
+Hepatitis H,Hepatitis H,Hepatitis D,Unmatched,4th
+Pharyngeal cancer stage I,Pharyngeal cancer stage I,Laryngeal cancer stage IV,Unmatched,4th
+Renal cancer stage I,Renal cancer stage I,Anal cancer stage IV,Unmatched,4th
+Renal cancer stage II,Renal cancer stage II,Rectal cancer stage II,Unmatched,4th
+Renal cancer stage III,Renal cancer stage III,Rectal cancer stage III,Unmatched,4th
+Renal cancer stage IV,Renal cancer stage IV,Rectal cancer stage IV,Unmatched,4th
+Vaginal cancer stage IVB,Vaginal cancer stage IVB,Vaginal cancer stage IVA,Unmatched,4th
+Vitamin K deficiency,Vitamin K deficiency,Vitamin E deficiency,Unmatched,4th
+XIIth nerve injury,XIIth nerve injury,VIth nerve injury,Unmatched,4th
+XIth nerve injury,XIth nerve injury,Vth nerve injury,Unmatched,4th
+Electrocardiogram P wave abnormal,Electrocardiogram P wave abnormal,Electrocardiogram P wave normal,Unmatched,4th
+Electrocardiogram Q wave abnormal,Electrocardiogram Q wave abnormal,Electrocardiogram P wave normal,Unmatched,4th
+Complement factor C1 decreased,Complement factor C1 decreased,Complement factor C4 decreased,Unmatched,4th
+Complement factor C1 increased,Complement factor C1 increased,Complement factor C4 decreased,Unmatched,4th
+Complement factor C2 decreased,Complement factor C2 decreased,Complement factor C4 decreased,Unmatched,4th
+Complement factor C2 increased,Complement factor C2 increased,Complement factor C4 decreased,Unmatched,4th
+Factor XII deficiency,Factor XII deficiency,Factor VIII deficiency,Unmatched,4th
+Factor III deficiency,Factor III deficiency,Factor XIII deficiency,Unmatched,4th
+Factor X deficiency,Factor X deficiency,Factor V deficiency,Unmatched,4th
+Trisomy 8,Trisomy 8,Trisomy 22,Unmatched,4th
+Trisomy 18,Trisomy 18,Trisomy 22,Unmatched,4th
+Trisomy 17,Trisomy 17,Trisomy 22,Unmatched,4th
+Hepatitis E antibody abnormal,Hepatitis E antibody abnormal,Hepatitis B antibody normal,Unmatched,4th
+Hepatitis E antibody normal,Hepatitis E antibody normal,Hepatitis B antibody normal,Unmatched,4th
+Vitamin B1 increased,Vitamin B1 increased,Vitamin B6 increased,Unmatched,4th
+Vitamin B1 decreased,Vitamin B1 decreased,Vitamin B6 increased,Unmatched,4th
+Vitamin B2 increased,Vitamin B2 increased,Vitamin B6 increased,Unmatched,4th
+Vitamin B2 decreased,Vitamin B2 decreased,Vitamin B6 increased,Unmatched,4th
+Vitamin K increased,Vitamin K increased,Vitamin E decreased,Unmatched,4th
+Vitamin K decreased,Vitamin K decreased,Vitamin E decreased,Unmatched,4th
+Anti factor XII antibody positive,Anti factor XII antibody positive,Anti factor XI antibody positive,Unmatched,4th
+Vitamin K,Vitamin K,Vitamin E,Unmatched,4th
+Hepatitis D antibody positive,Hepatitis D antibody positive,Hepatitis E antibody positive,Unmatched,4th
+Hepatitis D antibody,Hepatitis D antibody,Hepatitis E antibody,Unmatched,4th
+Hepatitis D antibody negative,Hepatitis D antibody negative,Hepatitis E antibody negative,Unmatched,4th
+Coagulation factor X level abnormal,Coagulation factor X level abnormal,Coagulation factor V level abnormal,Unmatched,4th
+Coagulation factor XII level abnormal,Coagulation factor XII level abnormal,Coagulation factor IX level abnormal,Unmatched,4th
+Coagulation factor XIII level abnormal,Coagulation factor XIII level abnormal,Coagulation factor VIII level abnormal,Unmatched,4th
+Vitamin D increased,Vitamin D increased,Vitamin E decreased,Unmatched,4th
+Vitamin A decreased,Vitamin A decreased,Vitamin E decreased,Unmatched,4th
+Vitamin A increased,Vitamin A increased,Vitamin E decreased,Unmatched,4th
+Vitamin D abnormal,Vitamin D abnormal,Vitamin A normal,Unmatched,4th
+Vitamin D decreased,Vitamin D decreased,Vitamin E decreased,Unmatched,4th
+Trisomy 15,Trisomy 15,Trisomy 22,Unmatched,4th
+Trisomy 12,Trisomy 12,Trisomy 22,Unmatched,4th
+Coagulation factor X level normal,Coagulation factor X level normal,Coagulation factor V level abnormal,Unmatched,4th
+Coagulation factor XI level normal,Coagulation factor XI level normal,Coagulation factor XII level abnormal,Unmatched,4th
+Coagulation factor XII level normal,Coagulation factor XII level normal,Coagulation factor IX level abnormal,Unmatched,4th
+Coagulation factor XIII level normal,Coagulation factor XIII level normal,Coagulation factor VIII level abnormal,Unmatched,4th
+Blood immunoglobulin D decreased,Blood immunoglobulin D decreased,Blood immunoglobulin E increased,Unmatched,4th
+Blood immunoglobulin D increased,Blood immunoglobulin D increased,Blood immunoglobulin E increased,Unmatched,4th
+Blood immunoglobulin D,Blood immunoglobulin D,Blood immunoglobulin M,Unmatched,4th
+Hepatitis D virus test positive,Hepatitis D virus test positive,Hepatitis E virus test positive,Unmatched,4th
+Trisomy 9,Trisomy 9,Trisomy 22,Unmatched,4th
+Trisomy 14,Trisomy 14,Trisomy 22,Unmatched,4th
+Hepatitis E virus test,Hepatitis E virus test,Hepatitis A virus test,Unmatched,4th
+Blood creatine phosphokinase MM decreased,Blood creatine phosphokinase MM decreased,Blood creatine phosphokinase MB decreased,Unmatched,4th
+Electrocardiogram J wave abnormal,Electrocardiogram J wave abnormal,Electrocardiogram P wave normal,Unmatched,4th
+Trisomy 4p,Trisomy 4p,Trisomy 22,Unmatched,4th
+Trisomy 16,Trisomy 16,Trisomy 22,Unmatched,4th

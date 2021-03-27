@@ -1,0 +1,171 @@
+MRA_term,Modified_term,SearcherReturned_term,State,Rank
+Alpha 2 globulin increased,Alpha 2 globulin increased,Alpha 2 globulin decreased,Unmatched,3rd
+Alpha 2 globulin normal,Alpha 2 globulin normal,Alpha 2 globulin abnormal,Unmatched,3rd
+Biopsy pharynx normal,Biopsy pharynx normal,Biopsy pharynx abnormal,Unmatched,3rd
+Blood calcium increased,Blood calcium increased,Blood calcium decreased,Unmatched,3rd
+Blood creatinine increased,Blood creatinine increased,Blood creatinine decreased,Unmatched,3rd
+Blood creatinine normal,Blood creatinine normal,Blood creatinine abnormal,Unmatched,3rd
+Blood immunoglobulin E increased,Blood immunoglobulin E increased,Blood immunoglobulin E decreased,Unmatched,3rd
+Blood immunoglobulin E normal,Blood immunoglobulin E normal,Blood immunoglobulin E abnormal,Unmatched,3rd
+Blood immunoglobulin G abnormal,Blood immunoglobulin G abnormal,Blood immunoglobulin E abnormal,Unmatched,3rd
+Blood immunoglobulin G decreased,Blood immunoglobulin G decreased,Blood immunoglobulin E decreased,Unmatched,3rd
+Blood immunoglobulin G increased,Blood immunoglobulin G increased,Blood immunoglobulin E decreased,Unmatched,3rd
+Blood immunoglobulin G normal,Blood immunoglobulin G normal,Blood immunoglobulin E abnormal,Unmatched,3rd
+Blood immunoglobulin M,Blood immunoglobulin M,Blood immunoglobulin G,Unmatched,3rd
+Blood immunoglobulin M abnormal,Blood immunoglobulin M abnormal,Blood immunoglobulin E abnormal,Unmatched,3rd
+Blood immunoglobulin M decreased,Blood immunoglobulin M decreased,Blood immunoglobulin E decreased,Unmatched,3rd
+Blood immunoglobulin M increased,Blood immunoglobulin M increased,Blood immunoglobulin E decreased,Unmatched,3rd
+Blood immunoglobulin M normal,Blood immunoglobulin M normal,Blood immunoglobulin E abnormal,Unmatched,3rd
+Blood methanol decreased,Blood methanol decreased,Blood ethanol increased,Unmatched,3rd
+Blood methanol increased,Blood methanol increased,Blood ethanol increased,Unmatched,3rd
+Chronic lymphocytic leukaemia stage 3,Chronic lymphocytic leukaemia stage 3,Chronic lymphocytic leukaemia stage 2,Unmatched,3rd
+Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 2,Unmatched,3rd
+Coagulation factor VIII level increased,Coagulation factor VIII level increased,Coagulation factor VIII level decreased,Unmatched,3rd
+Coagulation factor X level decreased,Coagulation factor X level decreased,Coagulation factor V level decreased,Unmatched,3rd
+Coagulation factor X level increased,Coagulation factor X level increased,Coagulation factor V level decreased,Unmatched,3rd
+Coagulation factor XI level increased,Coagulation factor XI level increased,Coagulation factor XI level decreased,Unmatched,3rd
+Coagulation factor XII level,Coagulation factor XII level,Coagulation factor VIII level,Unmatched,3rd
+Coagulation factor XII level decreased,Coagulation factor XII level decreased,Coagulation factor VII level decreased,Unmatched,3rd
+Coagulation factor XII level increased,Coagulation factor XII level increased,Coagulation factor VII level decreased,Unmatched,3rd
+Coagulation factor XIII level,Coagulation factor XIII level,Coagulation factor XI level,Unmatched,3rd
+Coagulation factor XIII level decreased,Coagulation factor XIII level decreased,Coagulation factor VIII level decreased,Unmatched,3rd
+Coagulation factor XIII level increased,Coagulation factor XIII level increased,Coagulation factor VIII level decreased,Unmatched,3rd
+Factor XIII deficiency,Factor XIII deficiency,Factor VIII deficiency,Unmatched,3rd
+Gonioscopy normal,Gonioscopy normal,Gonioscopy abnormal,Unmatched,3rd
+Haptoglobin increased,Haptoglobin increased,Haptoglobin decreased,Unmatched,3rd
+Haptoglobin normal,Haptoglobin normal,Haptoglobin abnormal,Unmatched,3rd
+Hepatitis B antibody normal,Hepatitis B antibody normal,Hepatitis B antibody abnormal,Unmatched,3rd
+Hepatitis D,Hepatitis D,Hepatitis C,Unmatched,3rd
+Hepatitis E,Hepatitis E,Hepatitis C,Unmatched,3rd
+Hepatitis F,Hepatitis F,Hepatitis C,Unmatched,3rd
+Hepatitis G,Hepatitis G,Hepatitis C,Unmatched,3rd
+Hepatitis H,Hepatitis H,Hepatitis C,Unmatched,3rd
+HIV infection CDC Group IV subgroup E,HIV infection CDC Group IV subgroup E,HIV infection CDC Group IV subgroup D,Unmatched,3rd
+Lipids increased,Lipids increased,Lipids decreased,Unmatched,3rd
+Non-small cell lung cancer stage IIIB,Non-small cell lung cancer stage IIIB,Non-small cell lung cancer stage IIIA,Unmatched,3rd
+Oestriol increased,Oestriol increased,Oestriol decreased,Unmatched,3rd
+Paracentesis eye normal,Paracentesis eye normal,Paracentesis eye abnormal,Unmatched,3rd
+Pharyngeal cancer stage I,Pharyngeal cancer stage I,Laryngeal cancer stage II,Unmatched,3rd
+Pharyngeal cancer stage II,Pharyngeal cancer stage II,Laryngeal cancer stage IV,Unmatched,3rd
+Pharyngeal cancer stage III,Pharyngeal cancer stage III,Pharyngeal cancer stage II,Unmatched,3rd
+Pharyngeal cancer stage IV,Pharyngeal cancer stage IV,Pharyngeal cancer stage II,Unmatched,3rd
+PO2 increased,PO2 increased,PO2 decreased,Unmatched,3rd
+Renal cancer stage I,Renal cancer stage I,Anal cancer stage II,Unmatched,3rd
+Renal cancer stage II,Renal cancer stage II,Anal cancer stage IV,Unmatched,3rd
+Renal cancer stage III,Renal cancer stage III,Rectal cancer stage II,Unmatched,3rd
+Renal cancer stage IV,Renal cancer stage IV,Rectal cancer stage II,Unmatched,3rd
+T-cell lymphoma stage I,T-cell lymphoma stage I,B-cell lymphoma stage IV,Unmatched,3rd
+T-cell lymphoma stage II,T-cell lymphoma stage II,B-cell lymphoma stage IV,Unmatched,3rd
+T-cell lymphoma stage III,T-cell lymphoma stage III,T-cell lymphoma stage II,Unmatched,3rd
+T-cell lymphoma stage IV,T-cell lymphoma stage IV,T-cell lymphoma stage II,Unmatched,3rd
+Trisomy 22,Trisomy 22,Trisomy 21,Unmatched,3rd
+Vaginal cancer stage IVA,Vaginal cancer stage IVA,Vaginal cancer stage III,Unmatched,3rd
+Vaginal cancer stage IVB,Vaginal cancer stage IVB,Vaginal cancer stage III,Unmatched,3rd
+Vitamin B6 deficiency,Vitamin B6 deficiency,Vitamin B2 deficiency,Unmatched,3rd
+Vitamin B6 increased,Vitamin B6 increased,Vitamin B6 decreased,Unmatched,3rd
+Vitamin E deficiency,Vitamin E deficiency,Vitamin D deficiency,Unmatched,3rd
+Vitamin K deficiency,Vitamin K deficiency,Vitamin D deficiency,Unmatched,3rd
+VIth nerve injury,VIth nerve injury,VIIth nerve injury,Unmatched,3rd
+Vth nerve injury,Vth nerve injury,VIth nerve injury,Unmatched,3rd
+XIIth nerve injury,XIIth nerve injury,VIIth nerve injury,Unmatched,3rd
+XIth nerve injury,XIth nerve injury,VIth nerve injury,Unmatched,3rd
+Werner's syndrome,Werner's syndrome,Vernet's syndrome,Unmatched,3rd
+Electrocardiogram P wave normal,Electrocardiogram P wave normal,Electrocardiogram T wave normal,Unmatched,3rd
+Electrocardiogram P wave abnormal,Electrocardiogram P wave abnormal,Electrocardiogram T wave normal,Unmatched,3rd
+Complement factor C4 decreased,Complement factor C4 decreased,Complement factor C4 increased,Unmatched,3rd
+Electrocardiogram Q wave abnormal,Electrocardiogram Q wave abnormal,Electrocardiogram T wave normal,Unmatched,3rd
+Complement factor C1 decreased,Complement factor C1 decreased,Complement factor C4 increased,Unmatched,3rd
+Complement factor C1 increased,Complement factor C1 increased,Complement factor C4 increased,Unmatched,3rd
+Complement factor C2 decreased,Complement factor C2 decreased,Complement factor C4 increased,Unmatched,3rd
+Complement factor C2 increased,Complement factor C2 increased,Complement factor C4 increased,Unmatched,3rd
+Factor XII deficiency,Factor XII deficiency,Factor VII deficiency,Unmatched,3rd
+LDL/HDL ratio decreased,LDL/HDL ratio decreased,CD4/CD8 ratio increased,Unmatched,3rd
+Factor III deficiency,Factor III deficiency,Factor VIII deficiency,Unmatched,3rd
+Factor X deficiency,Factor X deficiency,Factor XI deficiency,Unmatched,3rd
+Glycogen storage disease type VIII,Glycogen storage disease type VIII,Glycogen storage disease type VII,Unmatched,3rd
+Glycogen storage disease type III,Glycogen storage disease type III,Glycogen storage disease type VIII,Unmatched,3rd
+Biopsy ear abnormal,Biopsy ear abnormal,Biopsy ear normal,Unmatched,3rd
+Blood 25-hydroxycholecalciferol decreased,Blood 25-hydroxycholecalciferol decreased,Blood 25-hydroxycholecalciferol increased,Unmatched,3rd
+Trisomy 8,Trisomy 8,Trisomy 21,Unmatched,3rd
+Trisomy 18,Trisomy 18,Trisomy 21,Unmatched,3rd
+Trisomy 17,Trisomy 17,Trisomy 21,Unmatched,3rd
+Creatinine urine decreased,Creatinine urine decreased,Creatinine urine increased,Unmatched,3rd
+Dental examination abnormal,Dental examination abnormal,Dental examination normal,Unmatched,3rd
+Urological examination abnormal,Urological examination abnormal,Urological examination normal,Unmatched,3rd
+Mucopolysaccharidosis VII,Mucopolysaccharidosis VII,Mucopolysaccharidosis VI,Unmatched,3rd
+Hepatitis E antibody positive,Hepatitis E antibody positive,Hepatitis C antibody positive,Unmatched,3rd
+Hepatitis E antibody,Hepatitis E antibody,Hepatitis C antibody,Unmatched,3rd
+Hepatitis E antibody negative,Hepatitis E antibody negative,Hepatitis C antibody negative,Unmatched,3rd
+Hepatitis E antibody abnormal,Hepatitis E antibody abnormal,Hepatitis B antibody abnormal,Unmatched,3rd
+Hepatitis E antibody normal,Hepatitis E antibody normal,Hepatitis B antibody abnormal,Unmatched,3rd
+Vitamin E decreased,Vitamin E decreased,Vitamin E increased,Unmatched,3rd
+Vitamin B1 increased,Vitamin B1 increased,Vitamin B6 decreased,Unmatched,3rd
+Vitamin B1 decreased,Vitamin B1 decreased,Vitamin B6 decreased,Unmatched,3rd
+Vitamin B2 increased,Vitamin B2 increased,Vitamin B6 decreased,Unmatched,3rd
+Vitamin B2 decreased,Vitamin B2 decreased,Vitamin B6 decreased,Unmatched,3rd
+Vitamin K increased,Vitamin K increased,Vitamin E increased,Unmatched,3rd
+Vitamin K decreased,Vitamin K decreased,Vitamin E increased,Unmatched,3rd
+Anti factor XII antibody positive,Anti factor XII antibody positive,Anti factor IX antibody positive,Unmatched,3rd
+Vitamin E,Vitamin E,Vitamin D,Unmatched,3rd
+Vitamin B2,Vitamin B2,Vitamin B1,Unmatched,3rd
+Vitamin K,Vitamin K,Vitamin D,Unmatched,3rd
+Gallbladder cancer stage I,Gallbladder cancer stage I,Gallbladder cancer stage 0,Unmatched,3rd
+Hepatitis D antibody positive,Hepatitis D antibody positive,Hepatitis C antibody positive,Unmatched,3rd
+Hepatitis D antibody,Hepatitis D antibody,Hepatitis C antibody,Unmatched,3rd
+Hepatitis D antibody negative,Hepatitis D antibody negative,Hepatitis C antibody negative,Unmatched,3rd
+B-lymphocyte count increased,B-lymphocyte count increased,T-lymphocyte count increased,Unmatched,3rd
+Protein C increased,Protein C increased,Protein S increased,Unmatched,3rd
+Type III hyperlipidaemia,Type III hyperlipidaemia,Type IIb hyperlipidaemia,Unmatched,3rd
+Renal function test normal,Renal function test normal,Renal function test abnormal,Unmatched,3rd
+Anal neoplasm,Anal neoplasm,Renal neoplasm,Unmatched,3rd
+Angiogram normal,Angiogram normal,Angiogram abnormal,Unmatched,3rd
+Arteriogram normal,Arteriogram normal,Arteriogram abnormal,Unmatched,3rd
+Coagulation factor VIII level abnormal,Coagulation factor VIII level abnormal,Coagulation factor VII level abnormal,Unmatched,3rd
+Coagulation factor X level abnormal,Coagulation factor X level abnormal,Coagulation factor IX level abnormal,Unmatched,3rd
+Coagulation factor XII level abnormal,Coagulation factor XII level abnormal,Coagulation factor VIII level normal,Unmatched,3rd
+Coagulation factor XIII level abnormal,Coagulation factor XIII level abnormal,Coagulation factor VII level abnormal,Unmatched,3rd
+Endoscopy normal,Endoscopy normal,Endoscopy abnormal,Unmatched,3rd
+PO2 abnormal,PO2 abnormal,PCO2 normal,Unmatched,3rd
+Vitamin D increased,Vitamin D increased,Vitamin E increased,Unmatched,3rd
+Vitamin A decreased,Vitamin A decreased,Vitamin E increased,Unmatched,3rd
+Vitamin A increased,Vitamin A increased,Vitamin E increased,Unmatched,3rd
+Vitamin A normal,Vitamin A normal,Vitamin A abnormal,Unmatched,3rd
+Vitamin B12 abnormal,Vitamin B12 abnormal,Vitamin B6 normal,Unmatched,3rd
+Vitamin D abnormal,Vitamin D abnormal,Vitamin A abnormal,Unmatched,3rd
+Vitamin D decreased,Vitamin D decreased,Vitamin E increased,Unmatched,3rd
+Trisomy 15,Trisomy 15,Trisomy 21,Unmatched,3rd
+Trisomy 12,Trisomy 12,Trisomy 21,Unmatched,3rd
+Coagulation factor X level normal,Coagulation factor X level normal,Coagulation factor IX level abnormal,Unmatched,3rd
+Coagulation factor XI level normal,Coagulation factor XI level normal,Coagulation factor XI level abnormal,Unmatched,3rd
+Coagulation factor XII level normal,Coagulation factor XII level normal,Coagulation factor VIII level normal,Unmatched,3rd
+Coagulation factor XIII level normal,Coagulation factor XIII level normal,Coagulation factor VII level abnormal,Unmatched,3rd
+Blood immunoglobulin D decreased,Blood immunoglobulin D decreased,Blood immunoglobulin E decreased,Unmatched,3rd
+Blood immunoglobulin D increased,Blood immunoglobulin D increased,Blood immunoglobulin E decreased,Unmatched,3rd
+Oestradiol abnormal,Oestradiol abnormal,Oestriol abnormal,Unmatched,3rd
+CD4 lymphocytes increased,CD4 lymphocytes increased,CD8 lymphocytes decreased,Unmatched,3rd
+Hepatitis B antigen positive,Hepatitis B antigen positive,Hepatitis E antigen positive,Unmatched,3rd
+Apolipoprotein C abnormal,Apolipoprotein C abnormal,Apolipoprotein E abnormal,Unmatched,3rd
+Tetrahydrocortisone urine decreased,Tetrahydrocortisone urine decreased,Tetrahydrocortisone urine increased,Unmatched,3rd
+Blood immunoglobulin D,Blood immunoglobulin D,Blood immunoglobulin G,Unmatched,3rd
+Blood creatine phosphokinase MB decreased,Blood creatine phosphokinase MB decreased,Blood creatine phosphokinase BB increased,Unmatched,3rd
+Hepatitis B DNA decreased,Hepatitis B DNA decreased,Hepatitis B DNA increased,Unmatched,3rd
+Hepatitis A virus test,Hepatitis A virus test,Hepatitis D virus test,Unmatched,3rd
+Hepatitis E virus test positive,Hepatitis E virus test positive,Hepatitis C virus test positive,Unmatched,3rd
+Hepatitis D virus test positive,Hepatitis D virus test positive,Hepatitis C virus test positive,Unmatched,3rd
+Colposcopy normal,Colposcopy normal,Colposcopy abnormal,Unmatched,3rd
+Creatinine urine abnormal,Creatinine urine abnormal,Creatinine urine normal,Unmatched,3rd
+Trisomy 9,Trisomy 9,Trisomy 21,Unmatched,3rd
+Trisomy 14,Trisomy 14,Trisomy 21,Unmatched,3rd
+Hepatitis A antigen,Hepatitis A antigen,Hepatitis B antigen,Unmatched,3rd
+Hepatitis E virus test,Hepatitis E virus test,Hepatitis D virus test,Unmatched,3rd
+Blood creatine phosphokinase MM decreased,Blood creatine phosphokinase MM decreased,Blood creatine phosphokinase BB increased,Unmatched,3rd
+Electrocardiogram J wave abnormal,Electrocardiogram J wave abnormal,Electrocardiogram T wave normal,Unmatched,3rd
+CYP2C9 polymorphism,CYP2C9 polymorphism,CYP2B6 polymorphism,Unmatched,3rd
+Dental cyst,Dental cyst,Genital cyst,Unmatched,3rd
+Infusion site hyperaesthesia,Infusion site hyperaesthesia,Incision site hyperaesthesia,Unmatched,3rd
+XXX syndrome,XXX syndrome,XYY syndrome,Unmatched,3rd
+CD4 lymphocyte percentage increased,CD4 lymphocyte percentage increased,CD8 lymphocyte percentage increased,Unmatched,3rd
+Trisomy 4p,Trisomy 4p,Trisomy 21,Unmatched,3rd
+Inhibin B increased,Inhibin B increased,Inhibin B decreased,Unmatched,3rd
+Trisomy 16,Trisomy 16,Trisomy 21,Unmatched,3rd
+Genital anaesthesia,Genital anaesthesia,Dental paraesthesia,Unmatched,3rd

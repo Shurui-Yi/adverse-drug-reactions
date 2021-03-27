@@ -1,0 +1,734 @@
+MRA_term,Modified_term,SearcherReturned_term,State,Rank
+Acral lentiginous melanoma stage II,Acral lentiginous melanoma stage II,Acral lentiginous melanoma stage I,Unmatched,1st
+Acral lentiginous melanoma stage III,Acral lentiginous melanoma stage III,Acral lentiginous melanoma stage II,Unmatched,1st
+Acral lentiginous melanoma stage IV,Acral lentiginous melanoma stage IV,Acral lentiginous melanoma stage I,Unmatched,1st
+Adenosquamous cell lung cancer stage I,Adenosquamous cell lung cancer stage I,Adenosquamous cell lung cancer stage 0,Unmatched,1st
+Adenosquamous cell lung cancer stage II,Adenosquamous cell lung cancer stage II,Adenosquamous cell lung cancer stage I,Unmatched,1st
+Adenosquamous cell lung cancer stage III,Adenosquamous cell lung cancer stage III,Adenosquamous cell lung cancer stage II,Unmatched,1st
+Adenosquamous cell lung cancer stage IV,Adenosquamous cell lung cancer stage IV,Adenosquamous cell lung cancer stage I,Unmatched,1st
+Adult T-cell lymphoma/leukaemia stage II,Adult T-cell lymphoma/leukaemia stage II,Adult T-cell lymphoma/leukaemia stage I,Unmatched,1st
+Adult T-cell lymphoma/leukaemia stage III,Adult T-cell lymphoma/leukaemia stage III,Adult T-cell lymphoma/leukaemia stage II,Unmatched,1st
+Adult T-cell lymphoma/leukaemia stage IV,Adult T-cell lymphoma/leukaemia stage IV,Adult T-cell lymphoma/leukaemia stage I,Unmatched,1st
+Alpha 2 globulin,Alpha 2 globulin,Alpha 1 globulin,Unmatched,1st
+Alpha 2 globulin abnormal,Alpha 2 globulin abnormal,Alpha 1 globulin abnormal,Unmatched,1st
+Alpha 2 globulin decreased,Alpha 2 globulin decreased,Alpha 1 globulin decreased,Unmatched,1st
+Alpha 2 globulin increased,Alpha 2 globulin increased,Alpha 1 globulin increased,Unmatched,1st
+Alpha 2 globulin normal,Alpha 2 globulin normal,Alpha 1 globulin normal,Unmatched,1st
+Anal cancer stage I,Anal cancer stage I,Anal cancer stage 0,Unmatched,1st
+Anal cancer stage II,Anal cancer stage II,Anal cancer stage I,Unmatched,1st
+Anal cancer stage III,Anal cancer stage III,Anal cancer stage II,Unmatched,1st
+Anal cancer stage IV,Anal cancer stage IV,Anal cancer stage I,Unmatched,1st
+Anaplastic large cell lymphoma T- and null-cell types stage II,Anaplastic large cell lymphoma T- and null-cell types stage II,Anaplastic large cell lymphoma T- and null-cell types stage I,Unmatched,1st
+Anaplastic large cell lymphoma T- and null-cell types stage III,Anaplastic large cell lymphoma T- and null-cell types stage III,Anaplastic large cell lymphoma T- and null-cell types stage II,Unmatched,1st
+Anaplastic large cell lymphoma T- and null-cell types stage IV,Anaplastic large cell lymphoma T- and null-cell types stage IV,Anaplastic large cell lymphoma T- and null-cell types stage I,Unmatched,1st
+Angiocentric lymphoma stage II,Angiocentric lymphoma stage II,Angiocentric lymphoma stage I,Unmatched,1st
+Angiocentric lymphoma stage III,Angiocentric lymphoma stage III,Angiocentric lymphoma stage II,Unmatched,1st
+Angiocentric lymphoma stage IV,Angiocentric lymphoma stage IV,Angiocentric lymphoma stage I,Unmatched,1st
+Angioimmunoblastic T-cell lymphoma stage II,Angioimmunoblastic T-cell lymphoma stage II,Angioimmunoblastic T-cell lymphoma stage I,Unmatched,1st
+Angioimmunoblastic T-cell lymphoma stage III,Angioimmunoblastic T-cell lymphoma stage III,Angioimmunoblastic T-cell lymphoma stage II,Unmatched,1st
+Angioimmunoblastic T-cell lymphoma stage IV,Angioimmunoblastic T-cell lymphoma stage IV,Angioimmunoblastic T-cell lymphoma stage I,Unmatched,1st
+Angiotensin II,Angiotensin II,Angiotensin I,Unmatched,1st
+Angiotensin II abnormal,Angiotensin II abnormal,Angiotensin I abnormal,Unmatched,1st
+Angiotensin II decreased,Angiotensin II decreased,Angiotensin I decreased,Unmatched,1st
+Angiotensin II increased,Angiotensin II increased,Angiotensin I increased,Unmatched,1st
+Angiotensin II normal,Angiotensin II normal,Angiotensin I normal,Unmatched,1st
+Apolipoprotein A-II,Apolipoprotein A-II,Apolipoprotein A-I,Unmatched,1st
+Apolipoprotein A-II decreased,Apolipoprotein A-II decreased,Apolipoprotein A-I decreased,Unmatched,1st
+Apolipoprotein A-II increased,Apolipoprotein A-II increased,Apolipoprotein A-I increased,Unmatched,1st
+Apolipoprotein A-II normal,Apolipoprotein A-II normal,Apolipoprotein A-I normal,Unmatched,1st
+B-cell lymphoma stage II,B-cell lymphoma stage II,B-cell lymphoma stage I,Unmatched,1st
+B-cell lymphoma stage III,B-cell lymphoma stage III,B-cell lymphoma stage II,Unmatched,1st
+B-cell lymphoma stage IV,B-cell lymphoma stage IV,B-cell lymphoma stage I,Unmatched,1st
+B-cell small lymphocytic lymphoma stage II,B-cell small lymphocytic lymphoma stage II,B-cell small lymphocytic lymphoma stage I,Unmatched,1st
+B-cell small lymphocytic lymphoma stage III,B-cell small lymphocytic lymphoma stage III,B-cell small lymphocytic lymphoma stage II,Unmatched,1st
+B-cell small lymphocytic lymphoma stage IV,B-cell small lymphocytic lymphoma stage IV,B-cell small lymphocytic lymphoma stage I,Unmatched,1st
+Bipolar II disorder,Bipolar II disorder,Bipolar I disorder,Unmatched,1st
+Bladder adenocarcinoma stage I,Bladder adenocarcinoma stage I,Bladder adenocarcinoma stage 0,Unmatched,1st
+Bladder adenocarcinoma stage II,Bladder adenocarcinoma stage II,Bladder adenocarcinoma stage I,Unmatched,1st
+Bladder adenocarcinoma stage III,Bladder adenocarcinoma stage III,Bladder adenocarcinoma stage II,Unmatched,1st
+Bladder adenocarcinoma stage IV,Bladder adenocarcinoma stage IV,Bladder adenocarcinoma stage I,Unmatched,1st
+"Bladder cancer stage I, with cancer in situ","Bladder cancer stage I, with cancer in situ","Bladder cancer stage 0, with cancer in situ",Unmatched,1st
+"Bladder cancer stage I, without cancer in situ","Bladder cancer stage I, without cancer in situ","Bladder cancer stage 0, without cancer in situ",Unmatched,1st
+Bladder cancer stage III,Bladder cancer stage III,Bladder cancer stage II,Unmatched,1st
+Bladder cancer stage IV,Bladder cancer stage IV,Bladder cancer stage II,Unmatched,1st
+Bladder squamous cell carcinoma stage I,Bladder squamous cell carcinoma stage I,Bladder squamous cell carcinoma stage 0,Unmatched,1st
+Bladder squamous cell carcinoma stage II,Bladder squamous cell carcinoma stage II,Bladder squamous cell carcinoma stage I,Unmatched,1st
+Bladder squamous cell carcinoma stage III,Bladder squamous cell carcinoma stage III,Bladder squamous cell carcinoma stage II,Unmatched,1st
+Bladder squamous cell carcinoma stage IV,Bladder squamous cell carcinoma stage IV,Bladder squamous cell carcinoma stage I,Unmatched,1st
+Blood creatine phosphokinase MM,Blood creatine phosphokinase MM,Blood creatine phosphokinase MB,Unmatched,1st
+Blood creatine phosphokinase MM increased,Blood creatine phosphokinase MM increased,Blood creatine phosphokinase MB increased,Unmatched,1st
+Blood creatine phosphokinase MM normal,Blood creatine phosphokinase MM normal,Blood creatine phosphokinase MB normal,Unmatched,1st
+Blood ethanol increased,Blood ethanol increased,Blood ethanal increased,Unmatched,1st
+Blood group AB,Blood group AB,Blood group A,Unmatched,1st
+Blood group B,Blood group B,Blood group A,Unmatched,1st
+Blood group O,Blood group O,Blood group A,Unmatched,1st
+Blood immunoglobulin E,Blood immunoglobulin E,Blood immunoglobulin A,Unmatched,1st
+Blood immunoglobulin E abnormal,Blood immunoglobulin E abnormal,Blood immunoglobulin A abnormal,Unmatched,1st
+Blood immunoglobulin E decreased,Blood immunoglobulin E decreased,Blood immunoglobulin A decreased,Unmatched,1st
+Blood immunoglobulin E increased,Blood immunoglobulin E increased,Blood immunoglobulin A increased,Unmatched,1st
+Blood immunoglobulin E normal,Blood immunoglobulin E normal,Blood immunoglobulin A normal,Unmatched,1st
+Blood immunoglobulin G,Blood immunoglobulin G,Blood immunoglobulin A,Unmatched,1st
+Blood immunoglobulin G abnormal,Blood immunoglobulin G abnormal,Blood immunoglobulin A abnormal,Unmatched,1st
+Blood immunoglobulin G decreased,Blood immunoglobulin G decreased,Blood immunoglobulin A decreased,Unmatched,1st
+Blood immunoglobulin G increased,Blood immunoglobulin G increased,Blood immunoglobulin A increased,Unmatched,1st
+Blood immunoglobulin G normal,Blood immunoglobulin G normal,Blood immunoglobulin A normal,Unmatched,1st
+Blood immunoglobulin M,Blood immunoglobulin M,Blood immunoglobulin A,Unmatched,1st
+Blood immunoglobulin M abnormal,Blood immunoglobulin M abnormal,Blood immunoglobulin A abnormal,Unmatched,1st
+Blood immunoglobulin M decreased,Blood immunoglobulin M decreased,Blood immunoglobulin A decreased,Unmatched,1st
+Blood immunoglobulin M increased,Blood immunoglobulin M increased,Blood immunoglobulin A increased,Unmatched,1st
+Blood immunoglobulin M normal,Blood immunoglobulin M normal,Blood immunoglobulin A normal,Unmatched,1st
+Blood methanol,Blood methanol,Blood ethanol,Unmatched,1st
+Blood methanol decreased,Blood methanol decreased,Blood ethanol decreased,Unmatched,1st
+Blood methanol increased,Blood methanol increased,Blood ethanol increased,Unmatched,1st
+Blood methanol normal,Blood methanol normal,Blood ethanol normal,Unmatched,1st
+Breast cancer stage II,Breast cancer stage II,Breast cancer stage I,Unmatched,1st
+Breast cancer stage III,Breast cancer stage III,Breast cancer stage II,Unmatched,1st
+Breast cancer stage IV,Breast cancer stage IV,Breast cancer stage I,Unmatched,1st
+Burkitt's lymphoma stage II,Burkitt's lymphoma stage II,Burkitt's lymphoma stage I,Unmatched,1st
+Burkitt's lymphoma stage III,Burkitt's lymphoma stage III,Burkitt's lymphoma stage II,Unmatched,1st
+Burkitt's lymphoma stage IV,Burkitt's lymphoma stage IV,Burkitt's lymphoma stage I,Unmatched,1st
+CD8 lymphocytes,CD8 lymphocytes,CD4 lymphocytes,Unmatched,1st
+Cervix carcinoma stage II,Cervix carcinoma stage II,Cervix carcinoma stage I,Unmatched,1st
+Cervix carcinoma stage III,Cervix carcinoma stage III,Cervix carcinoma stage II,Unmatched,1st
+Cervix carcinoma stage IV,Cervix carcinoma stage IV,Cervix carcinoma stage I,Unmatched,1st
+Chronic hepatitis C,Chronic hepatitis C,Chronic hepatitis B,Unmatched,1st
+Chronic lymphocytic leukaemia stage 1,Chronic lymphocytic leukaemia stage 1,Chronic lymphocytic leukaemia stage 0,Unmatched,1st
+Chronic lymphocytic leukaemia stage 2,Chronic lymphocytic leukaemia stage 2,Chronic lymphocytic leukaemia stage 0,Unmatched,1st
+Chronic lymphocytic leukaemia stage 3,Chronic lymphocytic leukaemia stage 3,Chronic lymphocytic leukaemia stage 0,Unmatched,1st
+Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 4,Chronic lymphocytic leukaemia stage 0,Unmatched,1st
+Coagulation factor VIII level,Coagulation factor VIII level,Coagulation factor VII level,Unmatched,1st
+Coagulation factor VIII level decreased,Coagulation factor VIII level decreased,Coagulation factor VII level decreased,Unmatched,1st
+Coagulation factor VIII level increased,Coagulation factor VIII level increased,Coagulation factor VII level increased,Unmatched,1st
+Coagulation factor VIII level normal,Coagulation factor VIII level normal,Coagulation factor VII level normal,Unmatched,1st
+Coagulation factor X level,Coagulation factor X level,Coagulation factor IX level,Unmatched,1st
+Coagulation factor X level decreased,Coagulation factor X level decreased,Coagulation factor IX level decreased,Unmatched,1st
+Coagulation factor X level increased,Coagulation factor X level increased,Coagulation factor IX level increased,Unmatched,1st
+Coagulation factor XI level,Coagulation factor XI level,Coagulation factor IX level,Unmatched,1st
+Coagulation factor XI level decreased,Coagulation factor XI level decreased,Coagulation factor IX level decreased,Unmatched,1st
+Coagulation factor XI level increased,Coagulation factor XI level increased,Coagulation factor IX level increased,Unmatched,1st
+Coagulation factor XII level,Coagulation factor XII level,Coagulation factor VII level,Unmatched,1st
+Coagulation factor XII level decreased,Coagulation factor XII level decreased,Coagulation factor VII level decreased,Unmatched,1st
+Coagulation factor XII level increased,Coagulation factor XII level increased,Coagulation factor VII level increased,Unmatched,1st
+Coagulation factor XIII level,Coagulation factor XIII level,Coagulation factor VIII level,Unmatched,1st
+Coagulation factor XIII level decreased,Coagulation factor XIII level decreased,Coagulation factor VIII level decreased,Unmatched,1st
+Coagulation factor XIII level increased,Coagulation factor XIII level increased,Coagulation factor VIII level increased,Unmatched,1st
+Colon cancer stage II,Colon cancer stage II,Colon cancer stage I,Unmatched,1st
+Colon cancer stage III,Colon cancer stage III,Colon cancer stage II,Unmatched,1st
+Colon cancer stage IV,Colon cancer stage IV,Colon cancer stage I,Unmatched,1st
+Colorectal cancer stage II,Colorectal cancer stage II,Colorectal cancer stage I,Unmatched,1st
+Colorectal cancer stage III,Colorectal cancer stage III,Colorectal cancer stage II,Unmatched,1st
+Colorectal cancer stage IV,Colorectal cancer stage IV,Colorectal cancer stage I,Unmatched,1st
+Cutaneous T-cell lymphoma stage II,Cutaneous T-cell lymphoma stage II,Cutaneous T-cell lymphoma stage I,Unmatched,1st
+Cutaneous T-cell lymphoma stage III,Cutaneous T-cell lymphoma stage III,Cutaneous T-cell lymphoma stage II,Unmatched,1st
+Cutaneous T-cell lymphoma stage IV,Cutaneous T-cell lymphoma stage IV,Cutaneous T-cell lymphoma stage I,Unmatched,1st
+Diffuse large B-cell lymphoma stage II,Diffuse large B-cell lymphoma stage II,Diffuse large B-cell lymphoma stage I,Unmatched,1st
+Diffuse large B-cell lymphoma stage III,Diffuse large B-cell lymphoma stage III,Diffuse large B-cell lymphoma stage II,Unmatched,1st
+Diffuse large B-cell lymphoma stage IV,Diffuse large B-cell lymphoma stage IV,Diffuse large B-cell lymphoma stage I,Unmatched,1st
+Endometrial cancer stage I,Endometrial cancer stage I,Endometrial cancer stage 0,Unmatched,1st
+Endometrial cancer stage II,Endometrial cancer stage II,Endometrial cancer stage I,Unmatched,1st
+Endometrial cancer stage III,Endometrial cancer stage III,Endometrial cancer stage II,Unmatched,1st
+Endometrial cancer stage IV,Endometrial cancer stage IV,Endometrial cancer stage I,Unmatched,1st
+Enophthalmos,Enophthalmos,Anophthalmos,Unmatched,1st
+Extragonadal primary germ cell tumour mixed stage II,Extragonadal primary germ cell tumour mixed stage II,Extragonadal primary germ cell tumour mixed stage I,Unmatched,1st
+Extragonadal primary germ cell tumour mixed stage III,Extragonadal primary germ cell tumour mixed stage III,Extragonadal primary germ cell tumour mixed stage II,Unmatched,1st
+Extragonadal primary non-seminoma stage II,Extragonadal primary non-seminoma stage II,Extragonadal primary non-seminoma stage I,Unmatched,1st
+Extragonadal primary non-seminoma stage III,Extragonadal primary non-seminoma stage III,Extragonadal primary non-seminoma stage II,Unmatched,1st
+Extragonadal primary non-seminoma stage IV,Extragonadal primary non-seminoma stage IV,Extragonadal primary non-seminoma stage I,Unmatched,1st
+Extragonadal primary seminoma (pure) stage II,Extragonadal primary seminoma (pure) stage II,Extragonadal primary seminoma (pure) stage I,Unmatched,1st
+Extragonadal primary seminoma (pure) stage III,Extragonadal primary seminoma (pure) stage III,Extragonadal primary seminoma (pure) stage II,Unmatched,1st
+Extragonadal primary seminoma (pure) stage IV,Extragonadal primary seminoma (pure) stage IV,Extragonadal primary seminoma (pure) stage I,Unmatched,1st
+Extranodal marginal zone B-cell lymphoma (MALT type) stage II,Extranodal marginal zone B-cell lymphoma (MALT type) stage II,Extranodal marginal zone B-cell lymphoma (MALT type) stage I,Unmatched,1st
+Extranodal marginal zone B-cell lymphoma (MALT type) stage III,Extranodal marginal zone B-cell lymphoma (MALT type) stage III,Extranodal marginal zone B-cell lymphoma (MALT type) stage II,Unmatched,1st
+Extranodal marginal zone B-cell lymphoma (MALT type) stage IV,Extranodal marginal zone B-cell lymphoma (MALT type) stage IV,Extranodal marginal zone B-cell lymphoma (MALT type) stage I,Unmatched,1st
+Factor II deficiency,Factor II deficiency,Factor I deficiency,Unmatched,1st
+Factor IX deficiency,Factor IX deficiency,Factor I deficiency,Unmatched,1st
+Factor VII deficiency,Factor VII deficiency,Factor II deficiency,Unmatched,1st
+Factor VIII deficiency,Factor VIII deficiency,Factor VII deficiency,Unmatched,1st
+Factor XI deficiency,Factor XI deficiency,Factor I deficiency,Unmatched,1st
+Factor XIII deficiency,Factor XIII deficiency,Factor VIII deficiency,Unmatched,1st
+Fallopian tube cancer stage II,Fallopian tube cancer stage II,Fallopian tube cancer stage I,Unmatched,1st
+Fallopian tube cancer stage III,Fallopian tube cancer stage III,Fallopian tube cancer stage II,Unmatched,1st
+Fallopian tube cancer stage IV,Fallopian tube cancer stage IV,Fallopian tube cancer stage I,Unmatched,1st
+Follicle centre lymphoma diffuse small cell lymphoma stage II,Follicle centre lymphoma diffuse small cell lymphoma stage II,Follicle centre lymphoma diffuse small cell lymphoma stage I,Unmatched,1st
+Follicle centre lymphoma diffuse small cell lymphoma stage III,Follicle centre lymphoma diffuse small cell lymphoma stage III,Follicle centre lymphoma diffuse small cell lymphoma stage II,Unmatched,1st
+Follicle centre lymphoma diffuse small cell lymphoma stage IV,Follicle centre lymphoma diffuse small cell lymphoma stage IV,Follicle centre lymphoma diffuse small cell lymphoma stage I,Unmatched,1st
+"Follicle centre lymphoma, follicular grade I, II, III stage II","Follicle centre lymphoma, follicular grade I, II, III stage II","Follicle centre lymphoma, follicular grade I, II, III stage I",Unmatched,1st
+"Follicle centre lymphoma, follicular grade I, II, III stage III","Follicle centre lymphoma, follicular grade I, II, III stage III","Follicle centre lymphoma, follicular grade I, II, III stage II",Unmatched,1st
+"Follicle centre lymphoma, follicular grade I, II, III stage IV","Follicle centre lymphoma, follicular grade I, II, III stage IV","Follicle centre lymphoma, follicular grade I, II, III stage I",Unmatched,1st
+Gastric cancer stage I,Gastric cancer stage I,Gastric cancer stage 0,Unmatched,1st
+Gastric cancer stage II,Gastric cancer stage II,Gastric cancer stage I,Unmatched,1st
+Gastric cancer stage III,Gastric cancer stage III,Gastric cancer stage II,Unmatched,1st
+Glycogen storage disease type I,Glycogen storage disease type I,Glycogen storage disease type V,Unmatched,1st
+Hepatitis B,Hepatitis B,Hepatitis A,Unmatched,1st
+Hepatitis B antibody,Hepatitis B antibody,Hepatitis A antibody,Unmatched,1st
+Hepatitis B antibody abnormal,Hepatitis B antibody abnormal,Hepatitis A antibody abnormal,Unmatched,1st
+Hepatitis B antibody negative,Hepatitis B antibody negative,Hepatitis A antibody negative,Unmatched,1st
+Hepatitis B antibody normal,Hepatitis B antibody normal,Hepatitis A antibody normal,Unmatched,1st
+Hepatitis B antibody positive,Hepatitis B antibody positive,Hepatitis A antibody positive,Unmatched,1st
+Hepatitis C,Hepatitis C,Hepatitis A,Unmatched,1st
+Hepatitis C antibody,Hepatitis C antibody,Hepatitis A antibody,Unmatched,1st
+Hepatitis C antibody negative,Hepatitis C antibody negative,Hepatitis A antibody negative,Unmatched,1st
+Hepatitis C antibody positive,Hepatitis C antibody positive,Hepatitis A antibody positive,Unmatched,1st
+Hepatitis D,Hepatitis D,Hepatitis A,Unmatched,1st
+Hepatitis E,Hepatitis E,Hepatitis A,Unmatched,1st
+Hepatitis F,Hepatitis F,Hepatitis A,Unmatched,1st
+Hepatitis G,Hepatitis G,Hepatitis A,Unmatched,1st
+Hepatitis H,Hepatitis H,Hepatitis A,Unmatched,1st
+High grade B-cell lymphoma Burkitt-like lymphoma stage II,High grade B-cell lymphoma Burkitt-like lymphoma stage II,High grade B-cell lymphoma Burkitt-like lymphoma stage I,Unmatched,1st
+High grade B-cell lymphoma Burkitt-like lymphoma stage III,High grade B-cell lymphoma Burkitt-like lymphoma stage III,High grade B-cell lymphoma Burkitt-like lymphoma stage II,Unmatched,1st
+High grade B-cell lymphoma Burkitt-like lymphoma stage IV,High grade B-cell lymphoma Burkitt-like lymphoma stage IV,High grade B-cell lymphoma Burkitt-like lymphoma stage I,Unmatched,1st
+HIV infection CDC Group II,HIV infection CDC Group II,HIV infection CDC Group I,Unmatched,1st
+HIV infection CDC Group III,HIV infection CDC Group III,HIV infection CDC Group II,Unmatched,1st
+HIV infection CDC Group IV subgroup B,HIV infection CDC Group IV subgroup B,HIV infection CDC Group IV subgroup A,Unmatched,1st
+HIV infection CDC Group IV subgroup C2,HIV infection CDC Group IV subgroup C2,HIV infection CDC Group IV subgroup C1,Unmatched,1st
+HIV infection CDC Group IV subgroup D,HIV infection CDC Group IV subgroup D,HIV infection CDC Group IV subgroup A,Unmatched,1st
+HIV infection CDC Group IV subgroup E,HIV infection CDC Group IV subgroup E,HIV infection CDC Group IV subgroup A,Unmatched,1st
+Hodgkin's disease lymphocyte depletion stage II site unspecified,Hodgkin's disease lymphocyte depletion stage II site unspecified,Hodgkin's disease lymphocyte depletion stage I site unspecified,Unmatched,1st
+Hodgkin's disease lymphocyte depletion stage II subdiaphragm,Hodgkin's disease lymphocyte depletion stage II subdiaphragm,Hodgkin's disease lymphocyte depletion stage I subdiaphragm,Unmatched,1st
+Hodgkin's disease lymphocyte depletion stage II supradiaphragm,Hodgkin's disease lymphocyte depletion stage II supradiaphragm,Hodgkin's disease lymphocyte depletion stage I supradiaphragm,Unmatched,1st
+Hodgkin's disease lymphocyte predominance stage II site unspec,Hodgkin's disease lymphocyte predominance stage II site unspec,Hodgkin's disease lymphocyte predominance stage I site unspec,Unmatched,1st
+Hodgkin's disease lymphocyte predominance stage II subdiaphragm,Hodgkin's disease lymphocyte predominance stage II subdiaphragm,Hodgkin's disease lymphocyte predominance stage I subdiaphragm,Unmatched,1st
+Hodgkin's disease lymphocyte predominance stage II supradiaphragm,Hodgkin's disease lymphocyte predominance stage II supradiaphragm,Hodgkin's disease lymphocyte predominance stage I supradiaphragm,Unmatched,1st
+Hodgkin's disease mixed cellularity stage II subdiaphragmatic,Hodgkin's disease mixed cellularity stage II subdiaphragmatic,Hodgkin's disease mixed cellularity stage I subdiaphragmatic,Unmatched,1st
+Hodgkin's disease mixed cellularity stage II supradiaphragmatic,Hodgkin's disease mixed cellularity stage II supradiaphragmatic,Hodgkin's disease mixed cellularity stage I supradiaphragmatic,Unmatched,1st
+Hodgkin's disease stage II,Hodgkin's disease stage II,Hodgkin's disease stage I,Unmatched,1st
+Hodgkin's disease stage III,Hodgkin's disease stage III,Hodgkin's disease stage II,Unmatched,1st
+Hypervitaminosis D,Hypervitaminosis D,Hypervitaminosis A,Unmatched,1st
+Hypopharyngeal cancer stage I,Hypopharyngeal cancer stage I,Hypopharyngeal cancer stage 0,Unmatched,1st
+Hypopharyngeal cancer stage II,Hypopharyngeal cancer stage II,Hypopharyngeal cancer stage I,Unmatched,1st
+Hypopharyngeal cancer stage III,Hypopharyngeal cancer stage III,Hypopharyngeal cancer stage II,Unmatched,1st
+Hypopharyngeal cancer stage IV,Hypopharyngeal cancer stage IV,Hypopharyngeal cancer stage I,Unmatched,1st
+Intestinal T-cell lymphoma stage II,Intestinal T-cell lymphoma stage II,Intestinal T-cell lymphoma stage I,Unmatched,1st
+Intestinal T-cell lymphoma stage III,Intestinal T-cell lymphoma stage III,Intestinal T-cell lymphoma stage II,Unmatched,1st
+Intestinal T-cell lymphoma stage IV,Intestinal T-cell lymphoma stage IV,Intestinal T-cell lymphoma stage I,Unmatched,1st
+Large cell lung cancer stage I,Large cell lung cancer stage I,Large cell lung cancer stage 0,Unmatched,1st
+Large cell lung cancer stage II,Large cell lung cancer stage II,Large cell lung cancer stage I,Unmatched,1st
+Large cell lung cancer stage III,Large cell lung cancer stage III,Large cell lung cancer stage II,Unmatched,1st
+Large cell lung cancer stage IV,Large cell lung cancer stage IV,Large cell lung cancer stage I,Unmatched,1st
+Laryngeal cancer stage I,Laryngeal cancer stage I,Laryngeal cancer stage 0,Unmatched,1st
+Laryngeal cancer stage II,Laryngeal cancer stage II,Laryngeal cancer stage I,Unmatched,1st
+Laryngeal cancer stage III,Laryngeal cancer stage III,Laryngeal cancer stage II,Unmatched,1st
+Laryngeal cancer stage IV,Laryngeal cancer stage IV,Laryngeal cancer stage I,Unmatched,1st
+Lentigo maligna stage II,Lentigo maligna stage II,Lentigo maligna stage I,Unmatched,1st
+Lentigo maligna stage III,Lentigo maligna stage III,Lentigo maligna stage II,Unmatched,1st
+Lentigo maligna stage IV,Lentigo maligna stage IV,Lentigo maligna stage I,Unmatched,1st
+Lip and/or oral cavity cancer stage I,Lip and/or oral cavity cancer stage I,Lip and/or oral cavity cancer stage 0,Unmatched,1st
+Lip and/or oral cavity cancer stage II,Lip and/or oral cavity cancer stage II,Lip and/or oral cavity cancer stage I,Unmatched,1st
+Lip and/or oral cavity cancer stage III,Lip and/or oral cavity cancer stage III,Lip and/or oral cavity cancer stage II,Unmatched,1st
+Lip and/or oral cavity cancer stage IV,Lip and/or oral cavity cancer stage IV,Lip and/or oral cavity cancer stage I,Unmatched,1st
+Lung adenocarcinoma stage I,Lung adenocarcinoma stage I,Lung adenocarcinoma stage 0,Unmatched,1st
+Lung adenocarcinoma stage II,Lung adenocarcinoma stage II,Lung adenocarcinoma stage I,Unmatched,1st
+Lung adenocarcinoma stage III,Lung adenocarcinoma stage III,Lung adenocarcinoma stage II,Unmatched,1st
+Lung adenocarcinoma stage IV,Lung adenocarcinoma stage IV,Lung adenocarcinoma stage I,Unmatched,1st
+Lung carcinoma cell type unspecified stage I,Lung carcinoma cell type unspecified stage I,Lung carcinoma cell type unspecified stage 0,Unmatched,1st
+Lung carcinoma cell type unspecified stage II,Lung carcinoma cell type unspecified stage II,Lung carcinoma cell type unspecified stage I,Unmatched,1st
+Lung carcinoma cell type unspecified stage III,Lung carcinoma cell type unspecified stage III,Lung carcinoma cell type unspecified stage II,Unmatched,1st
+Lung carcinoma cell type unspecified stage IV,Lung carcinoma cell type unspecified stage IV,Lung carcinoma cell type unspecified stage I,Unmatched,1st
+Lung squamous cell carcinoma stage I,Lung squamous cell carcinoma stage I,Lung squamous cell carcinoma stage 0,Unmatched,1st
+Lung squamous cell carcinoma stage II,Lung squamous cell carcinoma stage II,Lung squamous cell carcinoma stage I,Unmatched,1st
+Lung squamous cell carcinoma stage III,Lung squamous cell carcinoma stage III,Lung squamous cell carcinoma stage II,Unmatched,1st
+Lung squamous cell carcinoma stage IV,Lung squamous cell carcinoma stage IV,Lung squamous cell carcinoma stage I,Unmatched,1st
+Lymphoplasmacytoid lymphoma/immunocytoma stage II,Lymphoplasmacytoid lymphoma/immunocytoma stage II,Lymphoplasmacytoid lymphoma/immunocytoma stage I,Unmatched,1st
+Lymphoplasmacytoid lymphoma/immunocytoma stage III,Lymphoplasmacytoid lymphoma/immunocytoma stage III,Lymphoplasmacytoid lymphoma/immunocytoma stage II,Unmatched,1st
+Lymphoplasmacytoid lymphoma/immunocytoma stage IV,Lymphoplasmacytoid lymphoma/immunocytoma stage IV,Lymphoplasmacytoid lymphoma/immunocytoma stage I,Unmatched,1st
+Malignant melanoma stage II,Malignant melanoma stage II,Malignant melanoma stage I,Unmatched,1st
+Malignant melanoma stage III,Malignant melanoma stage III,Malignant melanoma stage II,Unmatched,1st
+Malignant melanoma stage IV,Malignant melanoma stage IV,Malignant melanoma stage I,Unmatched,1st
+Mantle cell lymphoma stage II,Mantle cell lymphoma stage II,Mantle cell lymphoma stage I,Unmatched,1st
+Mantle cell lymphoma stage III,Mantle cell lymphoma stage III,Mantle cell lymphoma stage II,Unmatched,1st
+Mantle cell lymphoma stage IV,Mantle cell lymphoma stage IV,Mantle cell lymphoma stage I,Unmatched,1st
+Nasopharyngeal cancer stage I,Nasopharyngeal cancer stage I,Nasopharyngeal cancer stage 0,Unmatched,1st
+Nasopharyngeal cancer stage II,Nasopharyngeal cancer stage II,Nasopharyngeal cancer stage I,Unmatched,1st
+Nasopharyngeal cancer stage III,Nasopharyngeal cancer stage III,Nasopharyngeal cancer stage II,Unmatched,1st
+Nasopharyngeal cancer stage IV,Nasopharyngeal cancer stage IV,Nasopharyngeal cancer stage I,Unmatched,1st
+Nodal marginal zone B-cell lymphoma stage II,Nodal marginal zone B-cell lymphoma stage II,Nodal marginal zone B-cell lymphoma stage I,Unmatched,1st
+Nodal marginal zone B-cell lymphoma stage III,Nodal marginal zone B-cell lymphoma stage III,Nodal marginal zone B-cell lymphoma stage II,Unmatched,1st
+Nodal marginal zone B-cell lymphoma stage IV,Nodal marginal zone B-cell lymphoma stage IV,Nodal marginal zone B-cell lymphoma stage I,Unmatched,1st
+Non-small cell lung cancer stage I,Non-small cell lung cancer stage I,Non-small cell lung cancer stage 0,Unmatched,1st
+Non-small cell lung cancer stage II,Non-small cell lung cancer stage II,Non-small cell lung cancer stage I,Unmatched,1st
+Non-small cell lung cancer stage III,Non-small cell lung cancer stage III,Non-small cell lung cancer stage II,Unmatched,1st
+Non-small cell lung cancer stage IIIA,Non-small cell lung cancer stage IIIA,Non-small cell lung cancer stage III,Unmatched,1st
+Non-small cell lung cancer stage IIIB,Non-small cell lung cancer stage IIIB,Non-small cell lung cancer stage III,Unmatched,1st
+Non-small cell lung cancer stage IV,Non-small cell lung cancer stage IV,Non-small cell lung cancer stage I,Unmatched,1st
+Non-Hodgkin's lymphoma stage II,Non-Hodgkin's lymphoma stage II,Non-Hodgkin's lymphoma stage I,Unmatched,1st
+Non-Hodgkin's lymphoma stage III,Non-Hodgkin's lymphoma stage III,Non-Hodgkin's lymphoma stage II,Unmatched,1st
+Non-Hodgkin's lymphoma stage IV,Non-Hodgkin's lymphoma stage IV,Non-Hodgkin's lymphoma stage I,Unmatched,1st
+Non-Hodgkin's lymphoma unspecified histology aggressive stage II,Non-Hodgkin's lymphoma unspecified histology aggressive stage II,Non-Hodgkin's lymphoma unspecified histology aggressive stage I,Unmatched,1st
+Non-Hodgkin's lymphoma unspecified histology aggressive stage III,Non-Hodgkin's lymphoma unspecified histology aggressive stage III,Non-Hodgkin's lymphoma unspecified histology aggressive stage II,Unmatched,1st
+Non-Hodgkin's lymphoma unspecified histology aggressive stage IV,Non-Hodgkin's lymphoma unspecified histology aggressive stage IV,Non-Hodgkin's lymphoma unspecified histology aggressive stage I,Unmatched,1st
+Non-Hodgkin's lymphoma unspecified histology indolent stage II,Non-Hodgkin's lymphoma unspecified histology indolent stage II,Non-Hodgkin's lymphoma unspecified histology indolent stage I,Unmatched,1st
+Non-Hodgkin's lymphoma unspecified histology indolent stage III,Non-Hodgkin's lymphoma unspecified histology indolent stage III,Non-Hodgkin's lymphoma unspecified histology indolent stage II,Unmatched,1st
+Non-Hodgkin's lymphoma unspecified histology indolent stage IV,Non-Hodgkin's lymphoma unspecified histology indolent stage IV,Non-Hodgkin's lymphoma unspecified histology indolent stage I,Unmatched,1st
+Oesophageal adenocarcinoma stage I,Oesophageal adenocarcinoma stage I,Oesophageal adenocarcinoma stage 0,Unmatched,1st
+Oesophageal adenocarcinoma stage II,Oesophageal adenocarcinoma stage II,Oesophageal adenocarcinoma stage I,Unmatched,1st
+Oesophageal adenocarcinoma stage III,Oesophageal adenocarcinoma stage III,Oesophageal adenocarcinoma stage II,Unmatched,1st
+Oesophageal adenocarcinoma stage IV,Oesophageal adenocarcinoma stage IV,Oesophageal adenocarcinoma stage I,Unmatched,1st
+Oesophageal squamous cell carcinoma stage I,Oesophageal squamous cell carcinoma stage I,Oesophageal squamous cell carcinoma stage 0,Unmatched,1st
+Oesophageal squamous cell carcinoma stage II,Oesophageal squamous cell carcinoma stage II,Oesophageal squamous cell carcinoma stage I,Unmatched,1st
+Oesophageal squamous cell carcinoma stage III,Oesophageal squamous cell carcinoma stage III,Oesophageal squamous cell carcinoma stage II,Unmatched,1st
+Oesophageal squamous cell carcinoma stage IV,Oesophageal squamous cell carcinoma stage IV,Oesophageal squamous cell carcinoma stage I,Unmatched,1st
+Oropharyngeal cancer stage I,Oropharyngeal cancer stage I,Oropharyngeal cancer stage 0,Unmatched,1st
+Oropharyngeal cancer stage II,Oropharyngeal cancer stage II,Oropharyngeal cancer stage I,Unmatched,1st
+Oropharyngeal cancer stage III,Oropharyngeal cancer stage III,Oropharyngeal cancer stage II,Unmatched,1st
+Ovarian dysgerminoma stage II,Ovarian dysgerminoma stage II,Ovarian dysgerminoma stage I,Unmatched,1st
+Ovarian dysgerminoma stage III,Ovarian dysgerminoma stage III,Ovarian dysgerminoma stage II,Unmatched,1st
+Ovarian dysgerminoma stage IV,Ovarian dysgerminoma stage IV,Ovarian dysgerminoma stage I,Unmatched,1st
+Ovarian epithelial cancer stage II,Ovarian epithelial cancer stage II,Ovarian epithelial cancer stage I,Unmatched,1st
+Ovarian epithelial cancer stage III,Ovarian epithelial cancer stage III,Ovarian epithelial cancer stage II,Unmatched,1st
+Ovarian epithelial cancer stage IV,Ovarian epithelial cancer stage IV,Ovarian epithelial cancer stage I,Unmatched,1st
+Ovarian germ cell choriocarcinoma stage II,Ovarian germ cell choriocarcinoma stage II,Ovarian germ cell choriocarcinoma stage I,Unmatched,1st
+Ovarian germ cell choriocarcinoma stage III,Ovarian germ cell choriocarcinoma stage III,Ovarian germ cell choriocarcinoma stage II,Unmatched,1st
+Ovarian germ cell choriocarcinoma stage IV,Ovarian germ cell choriocarcinoma stage IV,Ovarian germ cell choriocarcinoma stage I,Unmatched,1st
+Ovarian germ cell embryonal carcinoma stage II,Ovarian germ cell embryonal carcinoma stage II,Ovarian germ cell embryonal carcinoma stage I,Unmatched,1st
+Ovarian germ cell embryonal carcinoma stage III,Ovarian germ cell embryonal carcinoma stage III,Ovarian germ cell embryonal carcinoma stage II,Unmatched,1st
+Ovarian germ cell embryonal carcinoma stage IV,Ovarian germ cell embryonal carcinoma stage IV,Ovarian germ cell embryonal carcinoma stage I,Unmatched,1st
+Ovarian germ cell endodermal sinus tumour stage II,Ovarian germ cell endodermal sinus tumour stage II,Ovarian germ cell endodermal sinus tumour stage I,Unmatched,1st
+Ovarian germ cell endodermal sinus tumour stage III,Ovarian germ cell endodermal sinus tumour stage III,Ovarian germ cell endodermal sinus tumour stage II,Unmatched,1st
+Ovarian germ cell endodermal sinus tumour stage IV,Ovarian germ cell endodermal sinus tumour stage IV,Ovarian germ cell endodermal sinus tumour stage I,Unmatched,1st
+Ovarian germ cell polyembryoma stage II,Ovarian germ cell polyembryoma stage II,Ovarian germ cell polyembryoma stage I,Unmatched,1st
+Ovarian germ cell polyembryoma stage III,Ovarian germ cell polyembryoma stage III,Ovarian germ cell polyembryoma stage II,Unmatched,1st
+Ovarian germ cell polyembryoma stage IV,Ovarian germ cell polyembryoma stage IV,Ovarian germ cell polyembryoma stage I,Unmatched,1st
+Ovarian germ cell teratoma stage II,Ovarian germ cell teratoma stage II,Ovarian germ cell teratoma stage I,Unmatched,1st
+Ovarian germ cell teratoma stage III,Ovarian germ cell teratoma stage III,Ovarian germ cell teratoma stage II,Unmatched,1st
+Ovarian germ cell teratoma stage IV,Ovarian germ cell teratoma stage IV,Ovarian germ cell teratoma stage I,Unmatched,1st
+Paranasal sinus and nasal cavity malignant neoplasm stage I,Paranasal sinus and nasal cavity malignant neoplasm stage I,Paranasal sinus and nasal cavity malignant neoplasm stage 0,Unmatched,1st
+Paranasal sinus and nasal cavity malignant neoplasm stage II,Paranasal sinus and nasal cavity malignant neoplasm stage II,Paranasal sinus and nasal cavity malignant neoplasm stage I,Unmatched,1st
+Paranasal sinus and nasal cavity malignant neoplasm stage III,Paranasal sinus and nasal cavity malignant neoplasm stage III,Paranasal sinus and nasal cavity malignant neoplasm stage II,Unmatched,1st
+Paranasal sinus and nasal cavity malignant neoplasm stage IV,Paranasal sinus and nasal cavity malignant neoplasm stage IV,Paranasal sinus and nasal cavity malignant neoplasm stage I,Unmatched,1st
+Penis carcinoma stage II,Penis carcinoma stage II,Penis carcinoma stage I,Unmatched,1st
+Penis carcinoma stage III,Penis carcinoma stage III,Penis carcinoma stage II,Unmatched,1st
+Penis carcinoma stage IV,Penis carcinoma stage IV,Penis carcinoma stage I,Unmatched,1st
+Peripheral T-cell lymphoma unspecified stage II,Peripheral T-cell lymphoma unspecified stage II,Peripheral T-cell lymphoma unspecified stage I,Unmatched,1st
+Peripheral T-cell lymphoma unspecified stage III,Peripheral T-cell lymphoma unspecified stage III,Peripheral T-cell lymphoma unspecified stage II,Unmatched,1st
+Peripheral T-cell lymphoma unspecified stage IV,Peripheral T-cell lymphoma unspecified stage IV,Peripheral T-cell lymphoma unspecified stage I,Unmatched,1st
+Pharyngeal cancer stage I,Pharyngeal cancer stage I,Pharyngeal cancer stage 0,Unmatched,1st
+Pharyngeal cancer stage II,Pharyngeal cancer stage II,Pharyngeal cancer stage I,Unmatched,1st
+Pharyngeal cancer stage III,Pharyngeal cancer stage III,Pharyngeal cancer stage II,Unmatched,1st
+Pharyngeal cancer stage IV,Pharyngeal cancer stage IV,Pharyngeal cancer stage I,Unmatched,1st
+PO2 decreased,PO2 decreased,PCO2 decreased,Unmatched,1st
+PO2 increased,PO2 increased,PCO2 increased,Unmatched,1st
+Polyglandular autoimmune syndrome type II,Polyglandular autoimmune syndrome type II,Polyglandular autoimmune syndrome type I,Unmatched,1st
+Precursor B-lymphoblastic lymphoma stage II,Precursor B-lymphoblastic lymphoma stage II,Precursor B-lymphoblastic lymphoma stage I,Unmatched,1st
+Precursor B-lymphoblastic lymphoma stage III,Precursor B-lymphoblastic lymphoma stage III,Precursor B-lymphoblastic lymphoma stage II,Unmatched,1st
+Precursor B-lymphoblastic lymphoma stage IV,Precursor B-lymphoblastic lymphoma stage IV,Precursor B-lymphoblastic lymphoma stage I,Unmatched,1st
+Precursor T-lymphoblastic lymphoma/leukaemia stage II,Precursor T-lymphoblastic lymphoma/leukaemia stage II,Precursor T-lymphoblastic lymphoma/leukaemia stage I,Unmatched,1st
+Precursor T-lymphoblastic lymphoma/leukaemia stage III,Precursor T-lymphoblastic lymphoma/leukaemia stage III,Precursor T-lymphoblastic lymphoma/leukaemia stage II,Unmatched,1st
+Precursor T-lymphoblastic lymphoma/leukaemia stage IV,Precursor T-lymphoblastic lymphoma/leukaemia stage IV,Precursor T-lymphoblastic lymphoma/leukaemia stage I,Unmatched,1st
+Primary mediastinal large B-cell lymphoma stage II,Primary mediastinal large B-cell lymphoma stage II,Primary mediastinal large B-cell lymphoma stage I,Unmatched,1st
+Primary mediastinal large B-cell lymphoma stage III,Primary mediastinal large B-cell lymphoma stage III,Primary mediastinal large B-cell lymphoma stage II,Unmatched,1st
+Primary mediastinal large B-cell lymphoma stage IV,Primary mediastinal large B-cell lymphoma stage IV,Primary mediastinal large B-cell lymphoma stage I,Unmatched,1st
+Prostate cancer stage I,Prostate cancer stage I,Prostate cancer stage 0,Unmatched,1st
+Prostate cancer stage II,Prostate cancer stage II,Prostate cancer stage I,Unmatched,1st
+Prostate cancer stage III,Prostate cancer stage III,Prostate cancer stage II,Unmatched,1st
+Prostate cancer stage IV,Prostate cancer stage IV,Prostate cancer stage I,Unmatched,1st
+Pyelitis,Pyelitis,Myelitis,Unmatched,1st
+Rectal cancer stage I,Rectal cancer stage I,Rectal cancer stage 0,Unmatched,1st
+Rectal cancer stage II,Rectal cancer stage II,Rectal cancer stage I,Unmatched,1st
+Rectal cancer stage III,Rectal cancer stage III,Rectal cancer stage II,Unmatched,1st
+Rectal cancer stage IV,Rectal cancer stage IV,Rectal cancer stage I,Unmatched,1st
+Rectosigmoid cancer stage I,Rectosigmoid cancer stage I,Rectosigmoid cancer stage 0,Unmatched,1st
+Rectosigmoid cancer stage II,Rectosigmoid cancer stage II,Rectosigmoid cancer stage I,Unmatched,1st
+Rectosigmoid cancer stage III,Rectosigmoid cancer stage III,Rectosigmoid cancer stage II,Unmatched,1st
+Rectosigmoid cancer stage IV,Rectosigmoid cancer stage IV,Rectosigmoid cancer stage I,Unmatched,1st
+Red blood cell microcytes present,Red blood cell microcytes present,Red blood cell macrocytes present,Unmatched,1st
+Renal cancer stage II,Renal cancer stage II,Renal cancer stage I,Unmatched,1st
+Renal cancer stage III,Renal cancer stage III,Renal cancer stage II,Unmatched,1st
+Renal cancer stage IV,Renal cancer stage IV,Renal cancer stage I,Unmatched,1st
+Renal cell carcinoma stage II,Renal cell carcinoma stage II,Renal cell carcinoma stage I,Unmatched,1st
+Renal cell carcinoma stage III,Renal cell carcinoma stage III,Renal cell carcinoma stage II,Unmatched,1st
+Renal cell carcinoma stage IV,Renal cell carcinoma stage IV,Renal cell carcinoma stage I,Unmatched,1st
+Salivary gland cancer stage I,Salivary gland cancer stage I,Salivary gland cancer stage 0,Unmatched,1st
+Salivary gland cancer stage II,Salivary gland cancer stage II,Salivary gland cancer stage I,Unmatched,1st
+Salivary gland cancer stage III,Salivary gland cancer stage III,Salivary gland cancer stage II,Unmatched,1st
+Salivary gland cancer stage IV,Salivary gland cancer stage IV,Salivary gland cancer stage I,Unmatched,1st
+Selective IgM immunodeficiency,Selective IgM immunodeficiency,Selective IgA immunodeficiency,Unmatched,1st
+Splenic marginal zone lymphoma stage II,Splenic marginal zone lymphoma stage II,Splenic marginal zone lymphoma stage I,Unmatched,1st
+Splenic marginal zone lymphoma stage III,Splenic marginal zone lymphoma stage III,Splenic marginal zone lymphoma stage II,Unmatched,1st
+Splenic marginal zone lymphoma stage IV,Splenic marginal zone lymphoma stage IV,Splenic marginal zone lymphoma stage I,Unmatched,1st
+Superficial spreading melanoma stage II,Superficial spreading melanoma stage II,Superficial spreading melanoma stage I,Unmatched,1st
+Superficial spreading melanoma stage III,Superficial spreading melanoma stage III,Superficial spreading melanoma stage II,Unmatched,1st
+Superficial spreading melanoma stage IV,Superficial spreading melanoma stage IV,Superficial spreading melanoma stage I,Unmatched,1st
+T-cell lymphoma,T-cell lymphoma,B-cell lymphoma,Unmatched,1st
+T-cell lymphoma recurrent,T-cell lymphoma recurrent,B-cell lymphoma recurrent,Unmatched,1st
+T-cell lymphoma refractory,T-cell lymphoma refractory,B-cell lymphoma refractory,Unmatched,1st
+T-cell lymphoma stage I,T-cell lymphoma stage I,B-cell lymphoma stage I,Unmatched,1st
+T-cell lymphoma stage II,T-cell lymphoma stage II,B-cell lymphoma stage I,Unmatched,1st
+T-cell lymphoma stage III,T-cell lymphoma stage III,B-cell lymphoma stage II,Unmatched,1st
+T-cell lymphoma stage IV,T-cell lymphoma stage IV,B-cell lymphoma stage I,Unmatched,1st
+T-cell type acute leukaemia,T-cell type acute leukaemia,B-cell type acute leukaemia,Unmatched,1st
+T-cell unclassifiable lymphoma high grade,T-cell unclassifiable lymphoma high grade,B-cell unclassifiable lymphoma high grade,Unmatched,1st
+T-cell unclassifiable lymphoma low grade,T-cell unclassifiable lymphoma low grade,B-cell unclassifiable lymphoma low grade,Unmatched,1st
+Testicular choriocarcinoma stage II,Testicular choriocarcinoma stage II,Testicular choriocarcinoma stage I,Unmatched,1st
+Testicular choriocarcinoma stage III,Testicular choriocarcinoma stage III,Testicular choriocarcinoma stage II,Unmatched,1st
+Testicular embryonal carcinoma stage II,Testicular embryonal carcinoma stage II,Testicular embryonal carcinoma stage I,Unmatched,1st
+Testicular embryonal carcinoma stage III,Testicular embryonal carcinoma stage III,Testicular embryonal carcinoma stage II,Unmatched,1st
+Testicular germ cell tumour mixed stage II,Testicular germ cell tumour mixed stage II,Testicular germ cell tumour mixed stage I,Unmatched,1st
+Testicular germ cell tumour mixed stage III,Testicular germ cell tumour mixed stage III,Testicular germ cell tumour mixed stage II,Unmatched,1st
+Testicular malignant teratoma stage II,Testicular malignant teratoma stage II,Testicular malignant teratoma stage I,Unmatched,1st
+Testicular malignant teratoma stage III,Testicular malignant teratoma stage III,Testicular malignant teratoma stage II,Unmatched,1st
+Testicular seminoma (pure) stage II,Testicular seminoma (pure) stage II,Testicular seminoma (pure) stage I,Unmatched,1st
+Testicular seminoma (pure) stage III,Testicular seminoma (pure) stage III,Testicular seminoma (pure) stage II,Unmatched,1st
+Testicular yolk sac tumour stage II,Testicular yolk sac tumour stage II,Testicular yolk sac tumour stage I,Unmatched,1st
+Testicular yolk sac tumour stage III,Testicular yolk sac tumour stage III,Testicular yolk sac tumour stage II,Unmatched,1st
+Trisomy 13,Trisomy 13,Trisomy 11,Unmatched,1st
+Trisomy 21,Trisomy 21,Trisomy 11,Unmatched,1st
+Trisomy 22,Trisomy 22,Trisomy 21,Unmatched,1st
+Type IIa hyperlipidaemia,Type IIa hyperlipidaemia,Type II hyperlipidaemia,Unmatched,1st
+Type IIb hyperlipidaemia,Type IIb hyperlipidaemia,Type II hyperlipidaemia,Unmatched,1st
+Vaginal cancer stage I,Vaginal cancer stage I,Vaginal cancer stage 0,Unmatched,1st
+Vaginal cancer stage II,Vaginal cancer stage II,Vaginal cancer stage I,Unmatched,1st
+Vaginal cancer stage III,Vaginal cancer stage III,Vaginal cancer stage II,Unmatched,1st
+Vaginal cancer stage IVB,Vaginal cancer stage IVB,Vaginal cancer stage IVA,Unmatched,1st
+VIIth nerve injury,VIIth nerve injury,VIIIth nerve injury,Unmatched,1st
+Vipoma,Vipoma,Lipoma,Unmatched,1st
+Vitamin B12 deficiency,Vitamin B12 deficiency,Vitamin B1 deficiency,Unmatched,1st
+Vitamin B2 deficiency,Vitamin B2 deficiency,Vitamin B1 deficiency,Unmatched,1st
+Vitamin B6 deficiency,Vitamin B6 deficiency,Vitamin B1 deficiency,Unmatched,1st
+Vitamin C deficiency,Vitamin C deficiency,Vitamin A deficiency,Unmatched,1st
+Vitamin D deficiency,Vitamin D deficiency,Vitamin A deficiency,Unmatched,1st
+Vitamin E deficiency,Vitamin E deficiency,Vitamin A deficiency,Unmatched,1st
+Vitamin K deficiency,Vitamin K deficiency,Vitamin A deficiency,Unmatched,1st
+VIth nerve injury,VIth nerve injury,IVth nerve injury,Unmatched,1st
+VIth nerve paralysis,VIth nerve paralysis,IVth nerve paralysis,Unmatched,1st
+Vth nerve injury,Vth nerve injury,IVth nerve injury,Unmatched,1st
+Vulval cancer stage I,Vulval cancer stage I,Vulval cancer stage 0,Unmatched,1st
+Vulval cancer stage II,Vulval cancer stage II,Vulval cancer stage I,Unmatched,1st
+Vulval cancer stage III,Vulval cancer stage III,Vulval cancer stage II,Unmatched,1st
+Vulval cancer stage IV,Vulval cancer stage IV,Vulval cancer stage I,Unmatched,1st
+Waldenstrom's macroglobulinaemia stage II,Waldenstrom's macroglobulinaemia stage II,Waldenstrom's macroglobulinaemia stage I,Unmatched,1st
+Waldenstrom's macroglobulinaemia stage III,Waldenstrom's macroglobulinaemia stage III,Waldenstrom's macroglobulinaemia stage II,Unmatched,1st
+Waldenstrom's macroglobulinaemia stage IV,Waldenstrom's macroglobulinaemia stage IV,Waldenstrom's macroglobulinaemia stage I,Unmatched,1st
+XIIth nerve injury,XIIth nerve injury,VIIth nerve injury,Unmatched,1st
+XIth nerve injury,XIth nerve injury,VIth nerve injury,Unmatched,1st
+XXYY syndrome,XXYY syndrome,XXXY syndrome,Unmatched,1st
+XIth nerve paralysis,XIth nerve paralysis,VIth nerve paralysis,Unmatched,1st
+Bladder irrigation,Bladder irrigation,Bladder irritation,Unmatched,1st
+Factor V deficiency,Factor V deficiency,Factor I deficiency,Unmatched,1st
+Carbohydrate antigen 15-3,Carbohydrate antigen 15-3,Carbohydrate antigen 19-9,Unmatched,1st
+Electrocardiogram T wave normal,Electrocardiogram T wave normal,Electrocardiogram Q waves normal,Unmatched,1st
+Electrocardiogram P wave normal,Electrocardiogram P wave normal,Electrocardiogram Q waves normal,Unmatched,1st
+Electrocardiogram P wave abnormal,Electrocardiogram P wave abnormal,Electrocardiogram T wave abnormal,Unmatched,1st
+Protein S,Protein S,Protein C,Unmatched,1st
+Paternal drugs affecting foetus,Paternal drugs affecting foetus,Maternal drugs affecting foetus,Unmatched,1st
+Vitamin A,Vitamin A,Vitamin C,Unmatched,1st
+Vitamin D,Vitamin D,Vitamin C,Unmatched,1st
+Complement factor C4,Complement factor C4,Complement factor C3,Unmatched,1st
+Vitamin E increased,Vitamin E increased,Vitamin C increased,Unmatched,1st
+Complement factor C4 increased,Complement factor C4 increased,Complement factor C3 increased,Unmatched,1st
+Complement factor C4 decreased,Complement factor C4 decreased,Complement factor C3 decreased,Unmatched,1st
+Blood creatine phosphokinase BB increased,Blood creatine phosphokinase BB increased,Blood creatine phosphokinase MB increased,Unmatched,1st
+Protein S decreased,Protein S decreased,Protein C decreased,Unmatched,1st
+Electrocardiogram Q wave abnormal,Electrocardiogram Q wave abnormal,Electrocardiogram T wave abnormal,Unmatched,1st
+Protein C deficiency,Protein C deficiency,Protein S deficiency,Unmatched,1st
+T-lymphocyte count decreased,T-lymphocyte count decreased,B-lymphocyte count decreased,Unmatched,1st
+Carbohydrate antigen 19-9 increased,Carbohydrate antigen 19-9 increased,Carbohydrate antigen 15-3 increased,Unmatched,1st
+Urethral polyp,Urethral polyp,Ureteral polyp,Unmatched,1st
+Complement factor C1 decreased,Complement factor C1 decreased,Complement factor C3 decreased,Unmatched,1st
+Complement factor C1 increased,Complement factor C1 increased,Complement factor C3 increased,Unmatched,1st
+Complement factor C2 decreased,Complement factor C2 decreased,Complement factor C3 decreased,Unmatched,1st
+Complement factor C2,Complement factor C2,Complement factor C3,Unmatched,1st
+Complement factor C2 increased,Complement factor C2 increased,Complement factor C3 increased,Unmatched,1st
+Factor XII deficiency,Factor XII deficiency,Factor II deficiency,Unmatched,1st
+Ureteral spasm,Ureteral spasm,Urethral spasm,Unmatched,1st
+Urethral carbuncle,Urethral carbuncle,Urethral caruncle,Unmatched,1st
+Factor III deficiency,Factor III deficiency,Factor II deficiency,Unmatched,1st
+Factor X deficiency,Factor X deficiency,Factor I deficiency,Unmatched,1st
+Ureteral meatotomy,Ureteral meatotomy,Urethral meatotomy,Unmatched,1st
+Cyst removal,Cyst removal,Cast removal,Unmatched,1st
+Cysteine urine,Cysteine urine,Cystine urine,Unmatched,1st
+Cysteine urine present,Cysteine urine present,Cystine urine present,Unmatched,1st
+Glycogen storage disease type II,Glycogen storage disease type II,Glycogen storage disease type I,Unmatched,1st
+Haemoglobin E disease,Haemoglobin E disease,Haemoglobin C disease,Unmatched,1st
+Glycogen storage disease type VI,Glycogen storage disease type VI,Glycogen storage disease type V,Unmatched,1st
+Glycogen storage disease type VII,Glycogen storage disease type VII,Glycogen storage disease type II,Unmatched,1st
+Glycogen storage disease type VIII,Glycogen storage disease type VIII,Glycogen storage disease type VII,Unmatched,1st
+Glycogen storage disease type IV,Glycogen storage disease type IV,Glycogen storage disease type V,Unmatched,1st
+Glycogen storage disease type III,Glycogen storage disease type III,Glycogen storage disease type II,Unmatched,1st
+Eye irrigation,Eye irrigation,Eye irritation,Unmatched,1st
+Trisomy 18,Trisomy 18,Trisomy 11,Unmatched,1st
+Trisomy 17,Trisomy 17,Trisomy 11,Unmatched,1st
+Type II hypersensitivity,Type II hypersensitivity,Type I hypersensitivity,Unmatched,1st
+Haemoglobin D disease,Haemoglobin D disease,Haemoglobin C disease,Unmatched,1st
+Haemoglobin C trait,Haemoglobin C trait,Haemoglobin D trait,Unmatched,1st
+CD8 lymphocytes decreased,CD8 lymphocytes decreased,CD4 lymphocytes decreased,Unmatched,1st
+Haemophilia B without inhibitors,Haemophilia B without inhibitors,Haemophilia A without inhibitors,Unmatched,1st
+Y-linked chromosomal disorder,Y-linked chromosomal disorder,X-linked chromosomal disorder,Unmatched,1st
+Mucopolysaccharidosis I,Mucopolysaccharidosis I,Mucopolysaccharidosis IV,Unmatched,1st
+Mucopolysaccharidosis II,Mucopolysaccharidosis II,Mucopolysaccharidosis IV,Unmatched,1st
+Mucopolysaccharidosis III,Mucopolysaccharidosis III,Mucopolysaccharidosis II,Unmatched,1st
+Mucopolysaccharidosis V,Mucopolysaccharidosis V,Mucopolysaccharidosis IV,Unmatched,1st
+Mucopolysaccharidosis VI,Mucopolysaccharidosis VI,Mucopolysaccharidosis IV,Unmatched,1st
+Mucopolysaccharidosis VII,Mucopolysaccharidosis VII,Mucopolysaccharidosis II,Unmatched,1st
+XYY syndrome,XYY syndrome,XXYY syndrome,Unmatched,1st
+Electrocardiogram P wave biphasic,Electrocardiogram P wave biphasic,Electrocardiogram T wave biphasic,Unmatched,1st
+Hepatitis E antibody positive,Hepatitis E antibody positive,Hepatitis A antibody positive,Unmatched,1st
+Hepatitis E antibody,Hepatitis E antibody,Hepatitis A antibody,Unmatched,1st
+Hepatitis E antibody negative,Hepatitis E antibody negative,Hepatitis A antibody negative,Unmatched,1st
+Hepatitis E antibody abnormal,Hepatitis E antibody abnormal,Hepatitis A antibody abnormal,Unmatched,1st
+Hepatitis E antibody normal,Hepatitis E antibody normal,Hepatitis A antibody normal,Unmatched,1st
+Urethral stent insertion,Urethral stent insertion,Ureteral stent insertion,Unmatched,1st
+Troponin T,Troponin T,Troponin I,Unmatched,1st
+Troponin T increased,Troponin T increased,Troponin I increased,Unmatched,1st
+Gallbladder cancer stage III,Gallbladder cancer stage III,Gallbladder cancer stage II,Unmatched,1st
+Gallbladder cancer stage IV,Gallbladder cancer stage IV,Gallbladder cancer stage II,Unmatched,1st
+Tongue carcinoma stage I,Tongue carcinoma stage I,Tongue carcinoma stage 0,Unmatched,1st
+Tongue carcinoma stage II,Tongue carcinoma stage II,Tongue carcinoma stage I,Unmatched,1st
+Tongue carcinoma stage III,Tongue carcinoma stage III,Tongue carcinoma stage II,Unmatched,1st
+Tongue carcinoma stage IV,Tongue carcinoma stage IV,Tongue carcinoma stage I,Unmatched,1st
+Vitamin E decreased,Vitamin E decreased,Vitamin C decreased,Unmatched,1st
+Vitamin B1 increased,Vitamin B1 increased,Vitamin B12 increased,Unmatched,1st
+Vitamin B1 decreased,Vitamin B1 decreased,Vitamin B12 decreased,Unmatched,1st
+Vitamin B2 increased,Vitamin B2 increased,Vitamin B12 increased,Unmatched,1st
+Vitamin B2 decreased,Vitamin B2 decreased,Vitamin B12 decreased,Unmatched,1st
+Vitamin K increased,Vitamin K increased,Vitamin C increased,Unmatched,1st
+Vitamin K decreased,Vitamin K decreased,Vitamin C decreased,Unmatched,1st
+Anti factor VII antibody positive,Anti factor VII antibody positive,Anti factor VIII antibody positive,Unmatched,1st
+Anti factor X antibody positive,Anti factor X antibody positive,Anti factor V antibody positive,Unmatched,1st
+Anti factor IX antibody positive,Anti factor IX antibody positive,Anti factor X antibody positive,Unmatched,1st
+Anti factor XI antibody positive,Anti factor XI antibody positive,Anti factor X antibody positive,Unmatched,1st
+Anti factor XII antibody positive,Anti factor XII antibody positive,Anti factor VII antibody positive,Unmatched,1st
+Hepatitis A antigen positive,Hepatitis A antigen positive,Hepatitis D antigen positive,Unmatched,1st
+Vitamin E,Vitamin E,Vitamin C,Unmatched,1st
+Vitamin B1,Vitamin B1,Vitamin B12,Unmatched,1st
+Vitamin B2,Vitamin B2,Vitamin B12,Unmatched,1st
+Vitamin K,Vitamin K,Vitamin C,Unmatched,1st
+Skin laceration,Skin laceration,Skin maceration,Unmatched,1st
+PCO2 normal,PCO2 normal,PO2 normal,Unmatched,1st
+Gallbladder cancer stage I,Gallbladder cancer stage I,Gallbladder cancer stage II,Unmatched,1st
+Hepatic cancer stage II,Hepatic cancer stage II,Hepatic cancer stage I,Unmatched,1st
+Pancreatic carcinoma stage I,Pancreatic carcinoma stage I,Pancreatic carcinoma stage 0,Unmatched,1st
+Pancreatic carcinoma stage II,Pancreatic carcinoma stage II,Pancreatic carcinoma stage I,Unmatched,1st
+Pancreatic carcinoma stage III,Pancreatic carcinoma stage III,Pancreatic carcinoma stage II,Unmatched,1st
+Hepatic cancer stage III,Hepatic cancer stage III,Hepatic cancer stage II,Unmatched,1st
+Hepatic cancer stage IV,Hepatic cancer stage IV,Hepatic cancer stage I,Unmatched,1st
+Pancreatic carcinoma stage IV,Pancreatic carcinoma stage IV,Pancreatic carcinoma stage I,Unmatched,1st
+Small intestine carcinoma stage I,Small intestine carcinoma stage I,Small intestine carcinoma stage 0,Unmatched,1st
+Small intestine carcinoma stage II,Small intestine carcinoma stage II,Small intestine carcinoma stage I,Unmatched,1st
+Small intestine carcinoma stage III,Small intestine carcinoma stage III,Small intestine carcinoma stage II,Unmatched,1st
+Small intestine carcinoma stage IV,Small intestine carcinoma stage IV,Small intestine carcinoma stage I,Unmatched,1st
+Bile duct cancer stage II,Bile duct cancer stage II,Bile duct cancer stage I,Unmatched,1st
+Bile duct cancer stage III,Bile duct cancer stage III,Bile duct cancer stage II,Unmatched,1st
+Bile duct cancer stage IV,Bile duct cancer stage IV,Bile duct cancer stage I,Unmatched,1st
+Bile duct cancer stage 0,Bile duct cancer stage 0,Bile duct cancer stage I,Unmatched,1st
+Mitochondrial DNA depletion,Mitochondrial DNA depletion,Mitochondrial DNA deletion,Unmatched,1st
+Hepatitis D antibody positive,Hepatitis D antibody positive,Hepatitis A antibody positive,Unmatched,1st
+Hepatitis D antibody,Hepatitis D antibody,Hepatitis A antibody,Unmatched,1st
+Hepatitis D antibody negative,Hepatitis D antibody negative,Hepatitis A antibody negative,Unmatched,1st
+Hepatitis D RNA positive,Hepatitis D RNA positive,Hepatitis C RNA positive,Unmatched,1st
+Hepatitis D RNA,Hepatitis D RNA,Hepatitis C RNA,Unmatched,1st
+Hepatitis D RNA negative,Hepatitis D RNA negative,Hepatitis C RNA negative,Unmatched,1st
+Factor XIII Inhibition,Factor XIII Inhibition,Factor VIII inhibition,Unmatched,1st
+B-lymphocyte count,B-lymphocyte count,T-lymphocyte count,Unmatched,1st
+B-lymphocyte count increased,B-lymphocyte count increased,T-lymphocyte count increased,Unmatched,1st
+Hepatitis E antigen,Hepatitis E antigen,Hepatitis D antigen,Unmatched,1st
+Haemoglobin E,Haemoglobin E,Haemoglobin S,Unmatched,1st
+Haemoglobin E absent,Haemoglobin E absent,Haemoglobin A absent,Unmatched,1st
+Haemoglobin E present,Haemoglobin E present,Haemoglobin A present,Unmatched,1st
+Hepatitis E antigen positive,Hepatitis E antigen positive,Hepatitis D antigen positive,Unmatched,1st
+Hepatitis E antigen negative,Hepatitis E antigen negative,Hepatitis D antigen negative,Unmatched,1st
+Protein C increased,Protein C increased,Protein S increased,Unmatched,1st
+Type I hyperlipidaemia,Type I hyperlipidaemia,Type II hyperlipidaemia,Unmatched,1st
+Type III hyperlipidaemia,Type III hyperlipidaemia,Type II hyperlipidaemia,Unmatched,1st
+Type IV hyperlipidaemia,Type IV hyperlipidaemia,Type II hyperlipidaemia,Unmatched,1st
+Type V hyperlipidaemia,Type V hyperlipidaemia,Type I hyperlipidaemia,Unmatched,1st
+Drug abuser,Drug abuser,Drug abuse,Unmatched,1st
+HIV infection CDC group IV,HIV infection CDC group IV,HIV infection CDC Group I,Unmatched,1st
+Hodgkin's disease stage IV,Hodgkin's disease stage IV,Hodgkin's disease stage I,Unmatched,1st
+Apolipoprotein A-II abnormal,Apolipoprotein A-II abnormal,Apolipoprotein A-I abnormal,Unmatched,1st
+Coagulation factor VIII level abnormal,Coagulation factor VIII level abnormal,Coagulation factor VII level abnormal,Unmatched,1st
+Coagulation factor X level abnormal,Coagulation factor X level abnormal,Coagulation factor IX level abnormal,Unmatched,1st
+Coagulation factor XI level abnormal,Coagulation factor XI level abnormal,Coagulation factor IX level abnormal,Unmatched,1st
+Coagulation factor XII level abnormal,Coagulation factor XII level abnormal,Coagulation factor VII level abnormal,Unmatched,1st
+Coagulation factor XIII level abnormal,Coagulation factor XIII level abnormal,Coagulation factor VIII level abnormal,Unmatched,1st
+Cervix carcinoma stage 0,Cervix carcinoma stage 0,Cervix carcinoma stage I,Unmatched,1st
+Fascial operation,Fascial operation,Facial operation,Unmatched,1st
+Ovarian germ cell cancer stage II,Ovarian germ cell cancer stage II,Ovarian germ cell cancer stage I,Unmatched,1st
+Ovarian germ cell cancer stage III,Ovarian germ cell cancer stage III,Ovarian germ cell cancer stage II,Unmatched,1st
+Ovarian germ cell cancer stage IV,Ovarian germ cell cancer stage IV,Ovarian germ cell cancer stage I,Unmatched,1st
+Gastric cancer stage IV,Gastric cancer stage IV,Gastric cancer stage I,Unmatched,1st
+PO2 abnormal,PO2 abnormal,PCO2 abnormal,Unmatched,1st
+Vitamin D increased,Vitamin D increased,Vitamin C increased,Unmatched,1st
+Vitamin A abnormal,Vitamin A abnormal,Vitamin C abnormal,Unmatched,1st
+Vitamin A decreased,Vitamin A decreased,Vitamin C decreased,Unmatched,1st
+Vitamin A increased,Vitamin A increased,Vitamin C increased,Unmatched,1st
+Vitamin A normal,Vitamin A normal,Vitamin C normal,Unmatched,1st
+Vitamin D abnormal,Vitamin D abnormal,Vitamin C abnormal,Unmatched,1st
+Vitamin D decreased,Vitamin D decreased,Vitamin C decreased,Unmatched,1st
+Ureteral disorder,Ureteral disorder,Urethral disorder,Unmatched,1st
+Urethral neoplasm,Urethral neoplasm,Ureteral neoplasm,Unmatched,1st
+Electrocardiogram U wave inversion,Electrocardiogram U wave inversion,Electrocardiogram T wave inversion,Unmatched,1st
+Blood creatine phosphokinase BB,Blood creatine phosphokinase BB,Blood creatine phosphokinase MB,Unmatched,1st
+Trisomy 15,Trisomy 15,Trisomy 11,Unmatched,1st
+Trisomy 12,Trisomy 12,Trisomy 11,Unmatched,1st
+Apolipoprotein E abnormal,Apolipoprotein E abnormal,Apolipoprotein B abnormal,Unmatched,1st
+Coagulation factor X level normal,Coagulation factor X level normal,Coagulation factor IX level normal,Unmatched,1st
+Coagulation factor XI level normal,Coagulation factor XI level normal,Coagulation factor IX level normal,Unmatched,1st
+Coagulation factor XII level normal,Coagulation factor XII level normal,Coagulation factor VII level normal,Unmatched,1st
+Coagulation factor XIII level normal,Coagulation factor XIII level normal,Coagulation factor VIII level normal,Unmatched,1st
+Blood immunoglobulin D decreased,Blood immunoglobulin D decreased,Blood immunoglobulin A decreased,Unmatched,1st
+Blood immunoglobulin D increased,Blood immunoglobulin D increased,Blood immunoglobulin A increased,Unmatched,1st
+Haemoglobin C present,Haemoglobin C present,Haemoglobin A present,Unmatched,1st
+CD4 lymphocytes increased,CD4 lymphocytes increased,CD8 lymphocytes increased,Unmatched,1st
+Hepatitis B antigen positive,Hepatitis B antigen positive,Hepatitis D antigen positive,Unmatched,1st
+Hepatitis B antigen,Hepatitis B antigen,Hepatitis D antigen,Unmatched,1st
+Hepatitis A immunisation,Hepatitis A immunisation,Hepatitis B immunisation,Unmatched,1st
+Colon cancer stage 0,Colon cancer stage 0,Colon cancer stage I,Unmatched,1st
+Diabetic macroangiopathy,Diabetic macroangiopathy,Diabetic microangiopathy,Unmatched,1st
+Human herpesvirus 7 infection,Human herpesvirus 7 infection,Human herpesvirus 6 infection,Unmatched,1st
+Haemoglobin E trait,Haemoglobin E trait,Haemoglobin D trait,Unmatched,1st
+Apolipoprotein C,Apolipoprotein C,Apolipoprotein B,Unmatched,1st
+Apolipoprotein C abnormal,Apolipoprotein C abnormal,Apolipoprotein B abnormal,Unmatched,1st
+Oropharyngeal cancer stage IV,Oropharyngeal cancer stage IV,Oropharyngeal cancer stage I,Unmatched,1st
+Polyglandular autoimmune syndrome type III,Polyglandular autoimmune syndrome type III,Polyglandular autoimmune syndrome type II,Unmatched,1st
+HIV infection WHO clinical stage II,HIV infection WHO clinical stage II,HIV infection WHO clinical stage I,Unmatched,1st
+HIV infection WHO clinical stage III,HIV infection WHO clinical stage III,HIV infection WHO clinical stage II,Unmatched,1st
+HIV infection WHO clinical stage IV,HIV infection WHO clinical stage IV,HIV infection WHO clinical stage I,Unmatched,1st
+HTLV-2 test positive,HTLV-2 test positive,HTLV-1 test positive,Unmatched,1st
+Hepatitis B test negative,Hepatitis B test negative,Hepatitis C test negative,Unmatched,1st
+Acute hepatitis C,Acute hepatitis C,Acute hepatitis B,Unmatched,1st
+Nephritic syndrome,Nephritic syndrome,Nephrotic syndrome,Unmatched,1st
+Arteritis infective,Arteritis infective,Arthritis infective,Unmatched,1st
+Peripheral nerve infection,Peripheral nerve infection,Peripheral nerve injection,Unmatched,1st
+IVth nerve disorder,IVth nerve disorder,VIth nerve disorder,Unmatched,1st
+Ureteral cyst,Ureteral cyst,Urethral cyst,Unmatched,1st
+Hyper IgM syndrome,Hyper IgM syndrome,Hyper IgE syndrome,Unmatched,1st
+Application site scab,Application site scab,Application site scar,Unmatched,1st
+Injection site scab,Injection site scab,Injection site scar,Unmatched,1st
+Infusion site scab,Infusion site scab,Infusion site scar,Unmatched,1st
+Human herpesvirus 8 infection,Human herpesvirus 8 infection,Human herpesvirus 6 infection,Unmatched,1st
+Bladder transitional cell carcinoma stage I,Bladder transitional cell carcinoma stage I,Bladder transitional cell carcinoma stage 0,Unmatched,1st
+Bladder transitional cell carcinoma stage IV,Bladder transitional cell carcinoma stage IV,Bladder transitional cell carcinoma stage I,Unmatched,1st
+Bladder transitional cell carcinoma stage II,Bladder transitional cell carcinoma stage II,Bladder transitional cell carcinoma stage I,Unmatched,1st
+Bladder transitional cell carcinoma stage III,Bladder transitional cell carcinoma stage III,Bladder transitional cell carcinoma stage II,Unmatched,1st
+C-telopeptide,C-telopeptide,N-telopeptide,Unmatched,1st
+Blood immunoglobulin D,Blood immunoglobulin D,Blood immunoglobulin A,Unmatched,1st
+Type 2 diabetes mellitus,Type 2 diabetes mellitus,Type 1 diabetes mellitus,Unmatched,1st
+Substance abuser,Substance abuser,Substance abuse,Unmatched,1st
+Apolipoprotein E,Apolipoprotein E,Apolipoprotein B,Unmatched,1st
+Hepatitis B DNA increased,Hepatitis B DNA increased,Hepatitis C RNA increased,Unmatched,1st
+Hepatitis B DNA decreased,Hepatitis B DNA decreased,Hepatitis C RNA decreased,Unmatched,1st
+Hepatitis C virus test,Hepatitis C virus test,Hepatitis B virus test,Unmatched,1st
+Hepatitis D virus test,Hepatitis D virus test,Hepatitis B virus test,Unmatched,1st
+Hepatitis A virus test,Hepatitis A virus test,Hepatitis B virus test,Unmatched,1st
+Haemoglobin C,Haemoglobin C,Haemoglobin S,Unmatched,1st
+Vaccination site scar,Vaccination site scar,Vaccination site scab,Unmatched,1st
+Urethral stent removal,Urethral stent removal,Ureteral stent removal,Unmatched,1st
+Influenza C virus test positive,Influenza C virus test positive,Influenza B virus test positive,Unmatched,1st
+Influenza A virus test positive,Influenza A virus test positive,Influenza B virus test positive,Unmatched,1st
+Hepatitis B virus test positive,Hepatitis B virus test positive,Hepatitis A virus test positive,Unmatched,1st
+Hepatitis C virus test positive,Hepatitis C virus test positive,Hepatitis A virus test positive,Unmatched,1st
+Hepatitis E virus test positive,Hepatitis E virus test positive,Hepatitis A virus test positive,Unmatched,1st
+Type 2 lepra reaction,Type 2 lepra reaction,Type 1 lepra reaction,Unmatched,1st
+Hepatitis D virus test positive,Hepatitis D virus test positive,Hepatitis A virus test positive,Unmatched,1st
+Alpha 1 microglobulin,Alpha 1 microglobulin,Alpha-2 macroglobulin,Unmatched,1st
+Alpha 1 microglobulin increased,Alpha 1 microglobulin increased,Alpha-2 macroglobulin increased,Unmatched,1st
+Ovarian cancer stage II,Ovarian cancer stage II,Ovarian cancer stage I,Unmatched,1st
+Ovarian cancer stage III,Ovarian cancer stage III,Ovarian cancer stage II,Unmatched,1st
+Ovarian cancer stage IV,Ovarian cancer stage IV,Ovarian cancer stage I,Unmatched,1st
+Thyroid cancer stage I,Thyroid cancer stage I,Thyroid cancer stage 0,Unmatched,1st
+Thyroid cancer stage II,Thyroid cancer stage II,Thyroid cancer stage I,Unmatched,1st
+Thyroid cancer stage III,Thyroid cancer stage III,Thyroid cancer stage II,Unmatched,1st
+Thyroid cancer stage IV,Thyroid cancer stage IV,Thyroid cancer stage I,Unmatched,1st
+VIth nerve paresis,VIth nerve paresis,IVth nerve paresis,Unmatched,1st
+Hepatitis D immunisation,Hepatitis D immunisation,Hepatitis B immunisation,Unmatched,1st
+Anti-VGKC antibody,Anti-VGKC antibody,Anti-VGCC antibody,Unmatched,1st
+Head and neck cancer stage II,Head and neck cancer stage II,Head and neck cancer stage IV,Unmatched,1st
+Head and neck cancer stage I,Head and neck cancer stage I,Head and neck cancer stage IV,Unmatched,1st
+CD8 lymphocytes abnormal,CD8 lymphocytes abnormal,CD4 lymphocytes abnormal,Unmatched,1st
+Influenza B virus test,Influenza B virus test,Influenza A virus test,Unmatched,1st
+Trisomy 9,Trisomy 9,Trisomy 8,Unmatched,1st
+Trisomy 14,Trisomy 14,Trisomy 11,Unmatched,1st
+N-ras status assay,N-ras status assay,K-ras status assay,Unmatched,1st
+H-ras status assay,H-ras status assay,K-ras status assay,Unmatched,1st
+BRCA2 gene mutation assay,BRCA2 gene mutation assay,BRCA1 gene mutation assay,Unmatched,1st
+H-ras gene mutation,H-ras gene mutation,K-ras gene mutation,Unmatched,1st
+N-ras gene mutation,N-ras gene mutation,K-ras gene mutation,Unmatched,1st
+BRCA2 gene mutation,BRCA2 gene mutation,BRCA1 gene mutation,Unmatched,1st
+Hyper IgD syndrome,Hyper IgD syndrome,Hyper IgE syndrome,Unmatched,1st
+Anti factor X antibody negative,Anti factor X antibody negative,Anti factor IX antibody negative,Unmatched,1st
+Anti-VGKC antibody negative,Anti-VGKC antibody negative,Anti-VGCC antibody negative,Unmatched,1st
+Anti-VGKC antibody positive,Anti-VGKC antibody positive,Anti-VGCC antibody positive,Unmatched,1st
+Type 3 diabetes mellitus,Type 3 diabetes mellitus,Type 1 diabetes mellitus,Unmatched,1st
+Mucolipidosis type II,Mucolipidosis type II,Mucolipidosis type I,Unmatched,1st
+Mucolipidosis type III,Mucolipidosis type III,Mucolipidosis type II,Unmatched,1st
+Mucolipidosis type IV,Mucolipidosis type IV,Mucolipidosis type I,Unmatched,1st
+Multiple endocrine neoplasia Type 2,Multiple endocrine neoplasia Type 2,Multiple endocrine neoplasia Type 2A,Unmatched,1st
+Multiple endocrine neoplasia Type 1,Multiple endocrine neoplasia Type 1,Multiple endocrine neoplasia Type 2,Unmatched,1st
+Multiple endocrine neoplasia Type 2B,Multiple endocrine neoplasia Type 2B,Multiple endocrine neoplasia Type 2A,Unmatched,1st
+Hepatitis A antigen,Hepatitis A antigen,Hepatitis D antigen,Unmatched,1st
+Hepatitis A antigen negative,Hepatitis A antigen negative,Hepatitis D antigen negative,Unmatched,1st
+Troponin T normal,Troponin T normal,Troponin I normal,Unmatched,1st
+Influenza C virus test,Influenza C virus test,Influenza A virus test,Unmatched,1st
+B-cell prolymphocytic leukaemia,B-cell prolymphocytic leukaemia,T-cell prolymphocytic leukaemia,Unmatched,1st
+Hodgkin's disease nodular sclerosis stage II,Hodgkin's disease nodular sclerosis stage II,Hodgkin's disease nodular sclerosis stage III,Unmatched,1st
+Hodgkin's disease nodular sclerosis stage I,Hodgkin's disease nodular sclerosis stage I,Hodgkin's disease nodular sclerosis stage IV,Unmatched,1st
+CYP2B6 gene status assay,CYP2B6 gene status assay,CYP2D6 gene status assay,Unmatched,1st
+CYP2B6 polymorphism,CYP2B6 polymorphism,CYP2D6 polymorphism,Unmatched,1st
+Catheter site scar,Catheter site scar,Catheter site scab,Unmatched,1st
+Anti B antibody positive,Anti B antibody positive,Anti A antibody positive,Unmatched,1st
+Anti A antibody,Anti A antibody,Anti B antibody,Unmatched,1st
+HLA-B*5801 assay,HLA-B*5801 assay,HLA-B*5701 assay,Unmatched,1st
+Hepatitis E virus test,Hepatitis E virus test,Hepatitis B virus test,Unmatched,1st
+Perinatal HBV infection,Perinatal HBV infection,Perinatal HIV infection,Unmatched,1st
+Factor VII inhibition,Factor VII inhibition,Factor VIII inhibition,Unmatched,1st
+Factor X inhibition,Factor X inhibition,Factor IX inhibition,Unmatched,1st
+Factor II inhibition,Factor II inhibition,Factor IX inhibition,Unmatched,1st
+Blood creatine phosphokinase MM decreased,Blood creatine phosphokinase MM decreased,Blood creatine phosphokinase MB decreased,Unmatched,1st
+Electrocardiogram J wave abnormal,Electrocardiogram J wave abnormal,Electrocardiogram T wave abnormal,Unmatched,1st
+Electrocardiogram J wave,Electrocardiogram J wave,Electrocardiogram Q waves,Unmatched,1st
+Anti factor IX antibody,Anti factor IX antibody,Anti factor X antibody,Unmatched,1st
+HLA-B*5701 assay positive,HLA-B*5701 assay positive,HLA-B*5801 assay positive,Unmatched,1st
+CYP2C9 polymorphism,CYP2C9 polymorphism,CYP2C19 polymorphism,Unmatched,1st
+CD20 antigen positive,CD20 antigen positive,CD25 antigen positive,Unmatched,1st
+Gaucher's disease type II,Gaucher's disease type II,Gaucher's disease type I,Unmatched,1st
+Gaucher's disease type III,Gaucher's disease type III,Gaucher's disease type II,Unmatched,1st
+HIV infection CDC category B,HIV infection CDC category B,HIV infection CDC category A,Unmatched,1st
+HIV infection CDC category C,HIV infection CDC category C,HIV infection CDC category A,Unmatched,1st
+NAT1 polymorphism,NAT1 polymorphism,NAT2 polymorphism,Unmatched,1st
+Administration site scar,Administration site scar,Administration site scab,Unmatched,1st
+Medical device site scar,Medical device site scar,Medical device site scab,Unmatched,1st
+Anti factor V antibody,Anti factor V antibody,Anti factor X antibody,Unmatched,1st
+XXX syndrome,XXX syndrome,XXXY syndrome,Unmatched,1st
+Blood HCV RNA below assay limit,Blood HCV RNA below assay limit,Blood HIV RNA below assay limit,Unmatched,1st
+Hepatitis C core antibody positive,Hepatitis C core antibody positive,Hepatitis B core antibody positive,Unmatched,1st
+Hepatitis C core antibody,Hepatitis C core antibody,Hepatitis B core antibody,Unmatched,1st
+Hepatitis C core antibody negative,Hepatitis C core antibody negative,Hepatitis B core antibody negative,Unmatched,1st
+IgM nephropathy,IgM nephropathy,IgA nephropathy,Unmatched,1st
+Marginal zone lymphoma stage II,Marginal zone lymphoma stage II,Marginal zone lymphoma stage I,Unmatched,1st
+Marginal zone lymphoma stage III,Marginal zone lymphoma stage III,Marginal zone lymphoma stage II,Unmatched,1st
+Marginal zone lymphoma stage IV,Marginal zone lymphoma stage IV,Marginal zone lymphoma stage I,Unmatched,1st
+CD8 lymphocyte percentage decreased,CD8 lymphocyte percentage decreased,CD4 lymphocyte percentage decreased,Unmatched,1st
+CD4 lymphocyte percentage increased,CD4 lymphocyte percentage increased,CD8 lymphocyte percentage increased,Unmatched,1st
+B-lymphocyte count abnormal,B-lymphocyte count abnormal,T-lymphocyte count abnormal,Unmatched,1st
+Bacterial ureteritis,Bacterial ureteritis,Bacterial urethritis,Unmatched,1st
+Anti factor Xa activity decreased,Anti factor Xa activity decreased,Anti factor X activity decreased,Unmatched,1st
+Paternal exposure during pregnancy,Paternal exposure during pregnancy,Maternal exposure during pregnancy,Unmatched,1st
+Paternal exposure timing unspecified,Paternal exposure timing unspecified,Maternal exposure timing unspecified,Unmatched,1st
+Paternal exposure before pregnancy,Paternal exposure before pregnancy,Maternal exposure before pregnancy,Unmatched,1st
+Frasier syndrome,Frasier syndrome,Fraser syndrome,Unmatched,1st
+HLA-B*5701 assay negative,HLA-B*5701 assay negative,HLA-B*5801 assay negative,Unmatched,1st
+Portogram,Portogram,Aortogram,Unmatched,1st
+HTLV-1 test,HTLV-1 test,HTLV-2 test,Unmatched,1st
+H3N2 influenza,H3N2 influenza,H2N2 influenza,Unmatched,1st
+Extranodal marginal zone B-cell lymphoma (BALT type),Extranodal marginal zone B-cell lymphoma (BALT type),Extranodal marginal zone B-cell lymphoma (MALT type),Unmatched,1st
+Inhibin B decreased,Inhibin B decreased,Inhibin A decreased,Unmatched,1st
+Inhibin B increased,Inhibin B increased,Inhibin A increased,Unmatched,1st
+Inhibin A,Inhibin A,Inhibin B,Unmatched,1st
+Mucopolysaccharidosis IX,Mucopolysaccharidosis IX,Mucopolysaccharidosis IV,Unmatched,1st
+Trisomy 16,Trisomy 16,Trisomy 11,Unmatched,1st
+Urethral necrosis,Urethral necrosis,Ureteral necrosis,Unmatched,1st
+Acquired factor IX deficiency,Acquired factor IX deficiency,Acquired factor XI deficiency,Unmatched,1st
+Glycogen storage disease type IX,Glycogen storage disease type IX,Glycogen storage disease type I,Unmatched,1st
+Monocyte chemotactic protein-2 increased,Monocyte chemotactic protein-2 increased,Monocyte chemotactic protein-1 increased,Unmatched,1st
+Electrocardiogram P wave,Electrocardiogram P wave,Electrocardiogram Q waves,Unmatched,1st
+Cytokeratin 19 increased,Cytokeratin 19 increased,Cytokeratin 18 increased,Unmatched,1st
+CYP3A5 polymorphism,CYP3A5 polymorphism,CYP3A4 polymorphism,Unmatched,1st
+Troponin C,Troponin C,Troponin I,Unmatched,1st
+Electrocardiogram RR interval,Electrocardiogram RR interval,Electrocardiogram PR interval,Unmatched,1st
+Apolipoprotein E increased,Apolipoprotein E increased,Apolipoprotein B increased,Unmatched,1st
+Hypervitaminosis B,Hypervitaminosis B,Hypervitaminosis A,Unmatched,1st
+Congenital hepatitis C infection,Congenital hepatitis C infection,Congenital hepatitis B infection,Unmatched,1st
+Oral mucosal scar,Oral mucosal scar,Oral mucosal scab,Unmatched,1st
+SARS-CoV-1 test,SARS-CoV-1 test,SARS-CoV-2 test,Unmatched,1st
+SARS-CoV-1 test negative,SARS-CoV-1 test negative,SARS-CoV-2 test negative,Unmatched,1st
+SARS-CoV-1 test positive,SARS-CoV-1 test positive,SARS-CoV-2 test positive,Unmatched,1st
